@@ -1,7 +1,4 @@
-<summary>
-<summary><h1 style="display: inline-block;">NO LINE</h1></summary>
-## 👋 Hi, I'm Leonardo Lavagna 
-### A Mathematician and Data Science Enthusiast from Italy
+## 👋 Hi, I'm Leonardo Lavagna <br /> A Mathematician and Data Science Enthusiast from Italy
 
 ### 👨‍💻 I’m currently working on 
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
