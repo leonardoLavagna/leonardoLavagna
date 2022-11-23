@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leonardo Lavagna</h1>
 <h3 align="center">A Mathematician and Data Science Enthusiast from Italy</h3>
 
-- 👨‍💻 I’m currently working on [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
+### 👨‍💻 I’m currently working on 
+- [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
 
-- 👯 I’m looking to collaborate on [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
+## 👯 I’m looking to collaborate on [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
 
 - 📫 How to reach me **llavagna@proton.me**
 
