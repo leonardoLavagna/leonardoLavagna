@@ -21,7 +21,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Applications</summary>
   
-  1. **Molecular Solubility Prediction**
+  1. **Molecule Solubility Prediction App**
      * GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
 </details>
