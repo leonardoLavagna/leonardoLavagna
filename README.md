@@ -19,7 +19,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 
 ### This is my portfolio
 <details>
-  <summary>Applications</summary>
+  <summary>**Applications**</summary>
   
   1. **Molecule Solubility Prediction App** 
   
