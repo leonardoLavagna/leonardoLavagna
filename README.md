@@ -3,10 +3,12 @@
 
 ### 👨‍💻 I’m currently working on 
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
+- [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
-## 👯 I’m looking to collaborate on [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
+### 👯 I’m looking to collaborate on 
+- [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
 
-- 📫 How to reach me **llavagna@proton.me**
+### 📫 How to reach me **llavagna@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
