@@ -5,7 +5,7 @@
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
-### 👯 I’m looking to collaborate on 
+### 👥 I’m looking to collaborate on 
 - [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
 
 ### 📫 Connect with me  
