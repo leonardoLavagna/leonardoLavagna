@@ -22,8 +22,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   <summary>Applications</summary>
   
   1. **Molecule Solubility Prediction App** 
-  
-     A simple app that predicts (using a linear model) the solubility of a given input molecule
+A simple app that predicts (using a linear model) the solubility of a given input molecule
      * GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
   2. **DNA nucleotide count App**
