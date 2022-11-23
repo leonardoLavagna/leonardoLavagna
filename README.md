@@ -9,8 +9,8 @@
 - [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022)
 
 ### 📫 Connect with me  
-- llavagna@proton.me
-- {<p align="left">
+<p align="left">
+<a llavagna@proton.me</a>
 <a href="https://linkedin.com/in/leonard lavagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard lavagna" height="30" width="40" /></a>
 <a href="https://kaggle.com/leonardo lavagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="leonardo lavagna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lavagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavagna" height="30" width="40" /></a>
