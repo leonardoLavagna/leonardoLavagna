@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Leonardo Lavagna</h1>
-<h2 align="center">A Mathematician and Data Science Enthusiast from Italy</h2>
+<h3 align="center">👋 Hi, I'm Leonardo Lavagna</h3>
+<h3 align="center">A Mathematician and Data Science Enthusiast from Italy</h3>
 
 ### 👨‍💻 I’m currently working on 
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
