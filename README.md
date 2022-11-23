@@ -11,7 +11,7 @@
 ### 📫 Connect with me  
 - llavagna@proton.me 
 - [Linkedin](https://www.linkedin.com/in/leonardo-lavagna-0675a81a2/)
-- [Hackerrank] (https://www.hackerrank.com/lavagna)
+- [Hackerrank] (https://www.hackerrank.com/lavagna/)
 
 
 <h4 align="left">Some of the tools I use frequently:</h4>
