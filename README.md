@@ -21,13 +21,16 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Applications</summary>
   
-  1. **Molecule Solubility Prediction App**
+  1. **Molecule Solubility Prediction App** 
+     A simple app that predicts (using a linear model) the solubility of a given input molecule
      * GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
   2. **DNA nucleotide count App**
+     A simple app the counts and analyses the number of nucleotides in an input DNA string
      * GitHub Repository of the project https://github.com/leonardoLavagna/DNA-nucleotide-count-app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/dna-nucleotide-count-app/main/dna-app.py
   3. **Iris species prediction app**
+     A simple app based on the famous Iris dataset that carry out a classification task using a random forest model
      * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
      * App deployed on Heroku https://ml-iris-prediction-app.herokuapp.com
 </details>
