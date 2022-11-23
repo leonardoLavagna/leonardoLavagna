@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Leonardo Lavagna <br /><br /> A Mathematician and Data Science Enthusiast from Italy
+<h2 align="center"> 👋 Hi, I'm Leonardo Lavagna <br /><br /> A Mathematician and Data Science Enthusiast from Italy</h2>
 
 ### 👨‍💻 I’m currently working on 
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
