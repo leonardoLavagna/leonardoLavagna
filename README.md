@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img width="600" align="center" alt="tabpic" src="https://user-images.githubusercontent.com/91341004/203608908-cc8828d3-b63e-4673-a31a-f3cae01b8822.png">
-  Hi 👋, I'm Leonardo Lavagna
-</h1>
+<h1 align="center"><img width="600" align="center" alt="tabpic" src="https://user-images.githubusercontent.com/91341004/203608908-cc8828d3-b63e-4673-a31a-f3cae01b8822.png"></h1>
+<h1 align="center">Hi 👋, I'm Leonardo Lavagna</h1>
 <h3 align="center">A Mathematician and Data Science Enthusiast from Italy</h3>
 
 ### 👨‍💻 I’m currently working on 
