@@ -10,7 +10,7 @@
 
 ### 📫 Connect with me  
 - llavagna@proton.me 
-- [Linkedin](https://linkedin.com/in/leonard lavagna)
+- [Linkedin](https://www.linkedin.com/in/leonardo-lavagna-0675a81a2/)
 - [Hackerrank] (https://www.hackerrank.com/lavagna)
 
 
