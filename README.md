@@ -20,17 +20,8 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 ## This is my portfolio
 <details>
   <summary>Applications</summary>
-  
+  ### Molecular Solubility Prediction
   ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  1. GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
+  2. App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
 </details>
