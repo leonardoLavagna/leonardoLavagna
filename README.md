@@ -1,5 +1,6 @@
 <img align="center" width="600" class="center" alt="tabpic" src="https://user-images.githubusercontent.com/91341004/203608908-cc8828d3-b63e-4673-a31a-f3cae01b8822.png">
-# Hi 👋, I'm Leonardo Lavagna
+
+# 👋 Hi, I'm Leonardo Lavagna
 ## A Mathematician and Data Science Enthusiast from Italy
 
 ### 👨‍💻 I’m currently working on 
