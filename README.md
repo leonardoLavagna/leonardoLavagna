@@ -62,7 +62,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   1. **Heart Disease Prediction** 
   
      Different models to evaluate the risk of cardiovascular diseases
-     * GitHub Repository of the project .......
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Heart-disease-prediction
      * Report https://github.com/leonardoLavagna/Heart-disease-prediction/blob/main/report.pdf
   
   2. **Tesla stock price Analysis and Prediction**
