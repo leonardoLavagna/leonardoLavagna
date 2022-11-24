@@ -37,7 +37,9 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      A simple app based on the famous Iris dataset that carry out a classification task using a random forest model
      * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
      * App deployed on Heroku https://ml-iris-prediction-app.herokuapp.com
-</details><details>
+</details>
+
+<details>
   <summary>Databases</summary>
   
   1. **Covid-19 Deaths Data Analysis** 
@@ -54,3 +56,23 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   
 </details>
 
+<details>
+  <summary>Machine Learning</summary>
+  
+  1. **Heart Disease Prediction** 
+  
+     Different models to evaluate the risk of cardiovascular diseases
+     * GitHub Repository of the project .......
+     * Report https://github.com/leonardoLavagna/Heart-disease-prediction/blob/main/report.pdf
+  
+  2. **Tesla stock price Analysis and Prediction**
+     
+     Using the library yfinance and webscraping the historycal share price and revenues of Tesla are studied
+     with a classic logistic regression, an XGB Classifier and a Recurrent Neural Network
+     * GitHub Repository of the project .......
+  
+  3. **Image Classification with Real World Data Distributions**
+     A private kaggle competition organized by Leonardo Labs (https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
+     and Sapienza University of Rome.
+     * GitHub Repository of the project .......
+</details>
