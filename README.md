@@ -75,7 +75,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   
      A private kaggle competition organized by Leonardo Labs (https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
      and Sapienza University of Rome.
-     * GitHub Repository of the project .......
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Leonardo-Labs-Competition
 </details>
 
 <details>
