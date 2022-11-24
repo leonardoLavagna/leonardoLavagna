@@ -102,7 +102,9 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Cloud, Networks and Cryptography</summary>
   
-  1. ...
+  1. **Inside Rijndael**
+     Code and Comments to recreate AES S-Boxes for encryption and decryption 
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
      
 </details>
 
