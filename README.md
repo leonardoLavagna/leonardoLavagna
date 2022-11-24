@@ -77,3 +77,46 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      and Sapienza University of Rome.
      * GitHub Repository of the project .......
 </details>
+
+<details>
+  <summary>Deep Learning</summary>
+  
+  1. ...
+     
+</details>
+
+<details>
+  <summary>Computer Vision</summary>
+  
+  1. ...
+     
+</details>
+
+<details>
+  <summary>Mathematical and Statistical Modelling</summary>
+  
+  1. ...
+     
+</details>
+
+<details>
+  <summary>Cloud, Networks and Cryptography</summary>
+  
+  1. ...
+     
+</details>
+
+<details>
+  <summary>Games</summary>
+  
+  1. ...
+     
+</details>
+
+<details>
+  <summary>Other</summary>
+  
+  1. ...
+     
+</details>
+
