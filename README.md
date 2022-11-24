@@ -72,6 +72,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      * GitHub Repository of the project .......
   
   3. **Image Classification with Real World Data Distributions**
+  
      A private kaggle competition organized by Leonardo Labs (https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
      and Sapienza University of Rome.
      * GitHub Repository of the project .......
