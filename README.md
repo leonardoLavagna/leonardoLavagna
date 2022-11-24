@@ -37,4 +37,20 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      A simple app based on the famous Iris dataset that carry out a classification task using a random forest model
      * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
      * App deployed on Heroku https://ml-iris-prediction-app.herokuapp.com
+</details><details>
+  <summary>Databases</summary>
+  
+  1. **Covid-19 Deaths Data Analysis** 
+  
+     A simple SQL database that if queried can be used to build interesting visualizations (e.g. on Tableau)
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Covid-19-Analysis
+     * First Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
+     * Second Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView
+  
+  2. **Toy Employee**
+  
+     A simple toy database used to compare SQL and NoSQL features
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Employee
+  
 </details>
+
