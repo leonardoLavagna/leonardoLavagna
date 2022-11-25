@@ -32,7 +32,8 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      A simple app the counts and analyses the number of nucleotides in an input DNA string
      * GitHub Repository of the project https://github.com/leonardoLavagna/DNA-nucleotide-count-app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/dna-nucleotide-count-app/main/dna-app.py
-  3. **Iris species prediction app**
+  
+  3. 🌸 **Iris species prediction app**
   
      A simple app based on the famous Iris dataset that carry out a classification task using a random forest model
      * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
@@ -95,7 +96,9 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Mathematical and Statistical Modelling</summary>
   
-  1. ...
+  1. 🎵 **Note extraction from sound**
+     Asignal processing tool that turn a song into playable sheet music.
+     * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
      
 </details>
 
