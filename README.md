@@ -42,7 +42,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Databases</summary>
   
-  1. **Covid-19 Deaths Data Analysis** 
+  1. ** 🦠 Covid-19 Deaths Data Analysis** 
   
      A simple SQL database that if queried can be used to build interesting visualizations (e.g. on Tableau)
      * GitHub Repository of the project https://github.com/leonardoLavagna/Covid-19-Analysis
