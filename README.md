@@ -58,6 +58,32 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 </details>
 
 <details>
+  <summary>General Data Science</summary>
+  
+  1. **Simple Search Engines** 
+  
+     ...
+     * GitHub Repository of the project 
+  
+  2. **Steam Reviews Data Analysis**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  3. **Toy Shazam**
+       
+     ...
+     * GitHub Repository of the project 
+  
+  4. **Digitalization of ECGs**
+  
+     ...
+     * GitHub Repository of the project 
+   
+     
+</details>
+
+<details>
   <summary>Machine Learning</summary>
   
   1. ❤️‍🩹 **Heart Disease Prediction** 
@@ -82,14 +108,25 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Deep Learning</summary>
   
-  1. ...
+  1. **PyTorch Notebooks**
+     
+     ...
+     * GitHub Repository of the project 
      
 </details>
 
 <details>
   <summary>Computer Vision</summary>
   
-  1. ...
+  1. **Experiments with the library Cv2**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  2. **Image identification via filtering and color hisotgrams**
+  
+     ...
+     * GitHub Repository of the project 
      
 </details>
 
@@ -100,6 +137,36 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   
      A signal processing tool that turn a song into playable sheet music.
      * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
+  
+  2. **Waves Simulations**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  3. **Statistical Analysis of Rome Car Accidents**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  4. **Statistical Evaluation of the lifetime of innovative light bulbs**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  5. **Financial Portfolio Optimization**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  6. **A follow-up study on the paper of Carlin and Gelfand (1991)**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  7. **Prostate Cancer Genomic Study**
+  
+     ...
+     * GitHub Repository of the project 
      
 </details>
 
@@ -121,19 +188,65 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
   
+  2. **Classic Ciphers**
+   
+     ...
+     * GitHub Repository of the project 
+  
+  3. **Random Password Generator**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  4. **RSA**
+  
+     ...
+     * GitHub Repository of the project 
+  
 </details>
   
 <details>
   <summary>Games</summary>
   
-  1. ...
+  1. **Sudoku Solver**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  2. **Chess in C**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  3. **Hang Man**
+  
+     ...
+     *GitHub Repository of the project 
+  
+  4. **Nim, Tris and Hanoi Towers*
+  
+     ...
+     * GitHub Repository of the project 
      
 </details>
 
 <details>
   <summary>Other</summary>
   
-  1. ...
+  1. **Tiny C**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  2. **Libraries for Sorting and Searching in C**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  3. **A Collection of Programming Pearls**
+  
+     ...
+     * GitHub Repository of the project 
      
 </details>
 
