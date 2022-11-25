@@ -70,7 +70,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      
      Using the library yfinance and webscraping the historycal share price and revenues of Tesla are studied
      with a classic logistic regression, an XGB Classifier and a Recurrent Neural Network
-     * GitHub Repository of the project .......
+     * GitHub Repository of the project https://github.com/leonardoLavagna/tesla-stock-and-revenues-analysis
   
   3. ⚓ **Image Classification with Real World Data Distributions**
   
