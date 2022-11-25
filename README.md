@@ -97,6 +97,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   <summary>Mathematical and Statistical Modelling</summary>
   
   1. 🎵 **Note extraction from sound**
+  
      Asignal processing tool that turn a song into playable sheet music.
      * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
      
