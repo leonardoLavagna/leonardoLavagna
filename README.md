@@ -117,7 +117,8 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
   
-
+<details>
+  
 <details>
   <summary>Games</summary>
   
