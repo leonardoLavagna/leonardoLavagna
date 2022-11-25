@@ -104,7 +104,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 
 <details>
   <summary>Cloud and Networks </summary>
-
+  
   1. 🌐 **Programming Internet Sockets**
   
      Scripts to implement a web server, a pinger, a mail server and a web proxy
