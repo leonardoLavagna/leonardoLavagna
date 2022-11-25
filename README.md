@@ -106,6 +106,10 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
   
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
+  
+  2. **Programming Internet Sockets**
+     Scripts to implement a web server, a pinger, a mail server and a web proxy
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Socket-Programming
      
 </details>
 
