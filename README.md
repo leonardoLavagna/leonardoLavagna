@@ -21,13 +21,13 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Applications</summary>
   
-  1. **Molecule Solubility Prediction App** 
+  1. 🧪 **Molecule Solubility Prediction App** 
   
      A simple app that predicts (using a linear model) the solubility of a given input molecule
      * GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
      * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
   
-  2. **DNA nucleotide count App**
+  2. 🧬 **DNA nucleotide count App**
   
      A simple app the counts and analyses the number of nucleotides in an input DNA string
      * GitHub Repository of the project https://github.com/leonardoLavagna/DNA-nucleotide-count-app
@@ -49,7 +49,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
      * First Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
      * Second Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView
   
-  2. **Toy Employee**
+  2. 👷 **Toy Employee**
   
      A simple toy database used to compare SQL and NoSQL features
      * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Employee
@@ -59,19 +59,19 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Machine Learning</summary>
   
-  1. **Heart Disease Prediction** 
+  1. ❤️‍🩹 **Heart Disease Prediction** 
   
      Different models to evaluate the risk of cardiovascular diseases
      * GitHub Repository of the project https://github.com/leonardoLavagna/Heart-disease-prediction
      * Report https://github.com/leonardoLavagna/Heart-disease-prediction/blob/main/report.pdf
   
-  2. **Tesla stock price Analysis and Prediction**
+  2. 🚙 **Tesla stock price Analysis and Prediction**
      
      Using the library yfinance and webscraping the historycal share price and revenues of Tesla are studied
      with a classic logistic regression, an XGB Classifier and a Recurrent Neural Network
      * GitHub Repository of the project .......
   
-  3. **Image Classification with Real World Data Distributions**
+  3. ⚓ **Image Classification with Real World Data Distributions**
   
      A private kaggle competition organized by Leonardo Labs (https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
      and Sapienza University of Rome.
@@ -102,7 +102,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Cloud and Networks </summary>
 
-  1. **Programming Internet Sockets**
+  1. 🌐 **Programming Internet Sockets**
   
      Scripts to implement a web server, a pinger, a mail server and a web proxy
      * GitHub Repository of the project https://github.com/leonardoLavagna/Socket-Programming
@@ -112,7 +112,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 <details>
   <summary>Cryptography</summary>
   
-  1. **Inside Rijndael**
+  1. 🔐 **Inside Rijndael**
   
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
