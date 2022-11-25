@@ -100,19 +100,23 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 </details>
 
 <details>
-  <summary>Cloud, Networks and Cryptography</summary>
+  <summary>Cloud and Networks </summary>
+
+  1. **Programming Internet Sockets**
+  
+     Scripts to implement a web server, a pinger, a mail server and a web proxy
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Socket-Programming
+     
+</details>
+
+<details>
+  <summary>Cryptography</summary>
   
   1. **Inside Rijndael**
   
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
   
-  2. **Programming Internet Sockets**
-  
-     Scripts to implement a web server, a pinger, a mail server and a web proxy
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Socket-Programming
-     
-</details>
 
 <details>
   <summary>Games</summary>
