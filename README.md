@@ -222,7 +222,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   3. **Hang Man**
   
      ...
-     *GitHub Repository of the project 
+     * GitHub Repository of the project 
   
   4. **Nim, Tris and Hanoi Towers**
   
