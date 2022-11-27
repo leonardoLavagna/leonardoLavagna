@@ -66,10 +66,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
      Create some (simple) Search Engines over the "Top Anime Series" from the list of MyAnimeList using Python and web scraping.
      * GitHub Repository of the project https://github.com/leonardoLavagna/Simple-Search-Engine
   
-  2. **Steam Reviews Data Analysis**
+  2. 🎮 **Steam Reviews Data Analysis**
   
-     ...
-     * GitHub Repository of the project 
+     Study and exploration of some data about the gaming platform Steam
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Steam-Reviews-Analysis
   
   3. **Toy Shazam**
        
