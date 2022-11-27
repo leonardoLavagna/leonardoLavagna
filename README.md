@@ -61,10 +61,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
 <details>
   <summary>General Data Science</summary>
   
-  1. **Simple Search Engines** 
+  1. 🔎 **Simple Search Engines** 
   
-     ...
-     * GitHub Repository of the project 
+     Create some (simple) Search Engines over the "Top Anime Series" from the list of MyAnimeList using Python and web scraping.
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Simple-Search-Engine
   
   2. **Steam Reviews Data Analysis**
   
