@@ -72,10 +72,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
      Study and exploration of some data about the gaming platform Steam
      * GitHub Repository of the project https://github.com/leonardoLavagna/Steam-Reviews-Analysis
   
-  3. **Toy Shazam**
+  3. 🎧 **Toy Shazam**
        
-     ...
-     * GitHub Repository of the project 
+     Implementation of a simplified version of Shazam by dealing with hashing algorithms
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Shazam
   
   4. **Digitalization of ECGs**
   
