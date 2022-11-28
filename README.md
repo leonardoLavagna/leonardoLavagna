@@ -21,7 +21,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 ### This is my portfolio 
 More than 30 projects in different fields of Information Technologies, Programming and Data Science
 <details>
-  <summary>Applications</summary>
+  <summary>Applications (3)</summary>
   
   1. 🧪 **Molecule Solubility Prediction App** 
   
@@ -43,7 +43,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Databases</summary>
+  <summary>Databases (2)</summary>
   
   1. 🦠 **Covid-19 Deaths Data Analysis** 
   
@@ -60,7 +60,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>General Data Science</summary>
+  <summary>General Data Science (4)</summary>
   
   1. 🔎 **Simple Search Engines** 
   
@@ -86,7 +86,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Machine Learning</summary>
+  <summary>Machine Learning (3)</summary>
   
   1. ❤️‍🩹 **Heart Disease Prediction** 
   
@@ -108,7 +108,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Deep Learning</summary>
+  <summary>Deep Learning (1)</summary>
   
   1. **PyTorch Notebooks**
      
@@ -118,7 +118,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Computer Vision</summary>
+  <summary>Computer Vision (2)</summary>
   
   1. **Experiments with the library Cv2**
   
@@ -133,7 +133,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Mathematical and Statistical Modelling</summary>
+  <summary>Mathematical and Statistical Modelling (7)</summary>
   
   1. 🎵 **Note extraction from sound**
   
@@ -173,7 +173,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Cloud and Networks </summary>
+  <summary>Cloud and Networks (1)</summary>
   
   1. 🌐 **Programming Internet Sockets**
   
@@ -183,7 +183,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Cryptography</summary>
+  <summary>Cryptography (4)</summary>
   
   1. 🔐 **Inside Rijndael**
   
@@ -208,7 +208,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
   
 <details>
-  <summary>Games</summary>
+  <summary>Games (4)</summary>
   
   1. **Sudoku Solver**
   
@@ -233,7 +233,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Other</summary>
+  <summary>Other (3)</summary>
   
   1. **Tiny C**
   
