@@ -2,9 +2,9 @@
 I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in the fields of pharmaceutics and biotechnology). I deal mainly with modeling (biology, physics), data analysis (machine learning, deep learning), cybersecurity (cryptography), and optimization. I enjoy multidisciplinarity, working both independently and in groups. More generally, I am passionate about participating in innovative projects that contribute to the improvement of society and the environment. Here I share some parts of my work as well as those projects I carry out in my free thime and which are helping me grow, both personally and professionally. 
 
 ### 👨‍💻 I’m currently working on 
+- Power Assignment in Networks
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
-- Power Assignment in Networks
 
 ### 👥 I’m looking to collaborate on 
 - [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022) *DSVC*
