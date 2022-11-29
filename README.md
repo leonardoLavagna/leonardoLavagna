@@ -77,10 +77,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
      Implementation of a simplified version of Shazam by dealing with hashing algorithms
      * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Shazam
   
-  4. **Digitalization of ECGs**
+  4. 📈 **Digitalization of ECGs**
   
-     ...
-     * GitHub Repository of the project 
+     Given an ECG image it get transformed in digital form
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Digitalization-ECGs
    
      
 </details>
