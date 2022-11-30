@@ -37,7 +37,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
   3. 🌸 **Iris species prediction app**
   
-     A simple app based on the famous Iris dataset that carry out a classification task using a random forest model
+     A simple app based on the famous Iris dataset that carries out a classification task using a random forest model
      * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
      * App deployed on Heroku https://ml-iris-prediction-app.herokuapp.com
 </details>
