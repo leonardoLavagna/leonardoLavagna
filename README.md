@@ -113,8 +113,8 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
   1. **PyTorch Notebooks**
      
-     ...
-     * GitHub Repository of the project 
+     A series of notebooks to familiarize with some important data processing and analysis pipelines based on PyTorch
+     * GitHub Repository of the project https://github.com/leonardoLavagna/PyTorch-Notebooks
      
 </details>
 
