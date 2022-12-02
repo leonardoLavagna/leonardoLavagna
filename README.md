@@ -111,7 +111,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
 <details>
   <summary>Deep Learning (1)</summary>
   
-  1. **PyTorch Notebooks**
+  1. 🔦 **PyTorch Notebooks**
      
      A series of notebooks to familiarize with some important data processing and analysis pipelines based on PyTorch
      * GitHub Repository of the project https://github.com/leonardoLavagna/PyTorch-Notebooks
