@@ -3,6 +3,7 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 
 ### 👨‍💻 I’m currently working on 
 - Power Assignment in Networks
+- DOE for fluidic applications
 - [Epidemic Modelling](https://github.com/leonardoLavagna/Epidemic-modelling)
 - [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
