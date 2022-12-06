@@ -142,37 +142,37 @@ More than 30 projects in different fields of Information Technologies, Programmi
      A signal processing tool that turn a song into playable sheet music.
      * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
   
-  2. **Waves Simulations**
-    
-     ...
-     * GitHub Repository of the project 
-  
-  3. **Statistical Analysis of Rome Car Accidents**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  4. **Statistical Evaluation of the lifetime of innovative light bulbs**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  5. **Financial Portfolio Optimization**
-    
-     ...
-     * GitHub Repository of the project 
-  
-  6. **A follow-up study on the paper of Carlin and Gelfand (1991)**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  7. 🏥 **Prostate Cancer Genomic Study**
+ 2. 🏥 **Prostate Cancer Genomic Study**
   
      We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
      * GitHub Repository of the project https://github.com/leonardoLavagna/TCGA-PRAD
      * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/DEPM-1_proj_group-14.pdf
      
+  3. **Waves Simulations**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  4. **Statistical Analysis of Rome Car Accidents**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  5. **Statistical Evaluation of the lifetime of innovative light bulbs**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  6. **Financial Portfolio Optimization**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  7. **A follow-up study on the paper of Carlin and Gelfand (1991)**
+  
+     ...
+     * GitHub Repository of the project 
+  
 </details>
 
 <details>
