@@ -6,7 +6,6 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 - DOE for fluidic applications
 - [Drug Repurposing](https://github.com/leonardoLavagna/Drug-repurposing)
 - [Epidemic Modelling](https://github.com/leonardoLavagna/Epidemic-modelling)
-- [Prostate Adenocarcinoma TCGA-PRAD](https://github.com/leonardoLavagna/TCGA-PRAD)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
 ### 👥 I’m looking to collaborate on 
@@ -168,10 +167,11 @@ More than 30 projects in different fields of Information Technologies, Programmi
      ...
      * GitHub Repository of the project 
   
-  7. **Prostate Cancer Genomic Study**
+  7. 🏥 **Prostate Cancer Genomic Study**
   
-     ...
-     * GitHub Repository of the project 
+     We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
+     * GitHub Repository of the project https://github.com/leonardoLavagna/TCGA-PRAD
+     * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/DEPM-1_proj_group-14.pdf
      
 </details>
 
