@@ -104,8 +104,8 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
   3. ⚓ **Image Classification with Real World Data Distributions**
   
-     A private kaggle competition organized by Leonardo Labs (https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
-     and Sapienza University of Rome.
+     A private kaggle competition organized by [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
+     and Sapienza University of Rome. The image classification was done using neural networks.
      * GitHub Repository of the project https://github.com/leonardoLavagna/Leonardo-Labs-Competition
 </details>
 
