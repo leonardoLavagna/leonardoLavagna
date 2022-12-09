@@ -127,10 +127,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
      Some computer vision experiments with the library python cv2. 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Computer-Vision
   
-  2. **Image identification via filtering and color hisotgrams**
+  2. 🕵️ **Image identification via filtering and color hisotgrams**
   
-     ...
-     * GitHub Repository of the project 
+     Image identification based on filters, convolution, and color histograms.
+     * GitHub Repository of the project https://github.com/leonardoLavagna/image-classification
      
 </details>
 
