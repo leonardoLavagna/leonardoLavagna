@@ -124,7 +124,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
   1. 👀 **Experiments with the library Cv2**
   
-     Some compouter vision experiments with the library python cv2. 
+     Some computer vision experiments with the library python cv2. 
      * GitHub Repository of the project https://github.com/leonardoLavagna/Computer-Vision
   
   2. **Image identification via filtering and color hisotgrams**
