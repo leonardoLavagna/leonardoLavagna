@@ -146,7 +146,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
      We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
      * GitHub Repository of the project https://github.com/leonardoLavagna/TCGA-PRAD
-     * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/DEPM-1_proj_group-14.pdf
+     * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/report.pdf
      
   3. **Waves Simulations**
     
