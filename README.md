@@ -220,8 +220,8 @@ More than 30 projects in different fields of Information Technologies, Programmi
   
   2. **Chess in C**
   
-     ...
-     * GitHub Repository of the project 
+     Implementation of the game of chess in C/C++ froma scratch
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Chess-in-C
   
   3. **Hang Man**
   
