@@ -218,12 +218,13 @@ More than 30 projects in different fields of Information Technologies, Programmi
 <details>
   <summary>Games (4)</summary>
   
-  1. **Sudoku Solver**
+  1. 🔢 **Sudoku Solver**
   
-     ...
-     * GitHub Repository of the project 
+     A sudoku solver program (written in italian) based on backtracking in C.
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/sudoku-solver
+     * Interactive code that can be used to play: https://www.onlinegdb.com/IxcNlN-wH
   
-  2. **Chess in C**
+  2. ♟️ **Chess in C**
   
      Implementation of the game of chess in C/C++ froma scratch
      * GitHub Repository of the project https://github.com/leonardoLavagna/Chess-in-C
