@@ -5,7 +5,6 @@ I'm a Data Scientist in Unilab (an Italian consulting firm active primarely in t
 - Power Assignment in Networks
 - DOE for fluidic applications
 - [Drug Repurposing](https://github.com/leonardoLavagna/Drug-repurposing)
-- [Epidemic Modelling](https://github.com/leonardoLavagna/Epidemic-modelling)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
 ### 👥 I’m looking to collaborate on 
@@ -135,40 +134,46 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Mathematical and Statistical Modelling (7)</summary>
+  <summary>Mathematical and Statistical Modelling (8)</summary>
   
   1. 🎵 **Note extraction from sound**
   
      A signal processing tool that turn a song into playable sheet music.
      * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
   
- 2. 🏥 **Prostate Cancer Genomic Study**
+  2. 🏥 **Prostate Cancer Genomic Study**
   
      We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
      * GitHub Repository of the project https://github.com/leonardoLavagna/TCGA-PRAD
      * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/report.pdf
+ 
+  
+  3. 😷 **Epidemic-modelling**
+    
+     Simulations of various SIR-related models on a network.
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Epidemic-modelling
      
-  3. **Waves Simulations**
+  4. **Waves Simulations**
     
      ...
      * GitHub Repository of the project 
   
-  4. **Statistical Analysis of Rome Car Accidents**
+  5. **Statistical Analysis of Rome Car Accidents**
   
      ...
      * GitHub Repository of the project 
   
-  5. **Statistical Evaluation of the lifetime of innovative light bulbs**
+  6. **Statistical Evaluation of the lifetime of innovative light bulbs**
   
      ...
      * GitHub Repository of the project 
   
-  6. **Financial Portfolio Optimization**
+  7. **Financial Portfolio Optimization**
     
      ...
      * GitHub Repository of the project 
   
-  7. **A follow-up study on the paper of Carlin and Gelfand (1991)**
+  8. **A follow-up study on the paper of Carlin and Gelfand (1991)**
   
      ...
      * GitHub Repository of the project 
