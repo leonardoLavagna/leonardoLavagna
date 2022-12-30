@@ -229,10 +229,11 @@ More than 30 projects in different fields of Information Technologies, Programmi
      Implementation of the game of chess in C/C++ froma scratch
      * GitHub Repository of the project https://github.com/leonardoLavagna/Chess-in-C
   
-  3. **Hang Man**
+  3. 💱 **Hang Man**
   
-     ...
-     * GitHub Repository of the project 
+     A Python program to play the hangman game
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/hangman-game 
+     * Interactive code that can be used to play: https://onlinegdb.com/Ym61-W2Qm 
   
   4. **Nim, Tris and Hanoi Towers**
   
