@@ -27,20 +27,20 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🧪 **Molecule Solubility Prediction App** 
   
      A simple app that predicts (using a linear model) the solubility of a given input molecule
-     * GitHub Repository of the project https://github.com/leonardoLavagna/melecule_solubility_app
-     * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/melecule_solubility_app
+     * App deployed on Streamlit: https://share.streamlit.io/leonardolavagna/melecule_solubility_app/main/solubility-app.py
   
   2. 🧬 **DNA nucleotide count App**
   
      A simple app the counts and analyses the number of nucleotides in an input DNA string
-     * GitHub Repository of the project https://github.com/leonardoLavagna/DNA-nucleotide-count-app
-     * App deployed on Streamlit https://share.streamlit.io/leonardolavagna/dna-nucleotide-count-app/main/dna-app.py
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/DNA-nucleotide-count-app
+     * App deployed on Streamlit: https://share.streamlit.io/leonardolavagna/dna-nucleotide-count-app/main/dna-app.py
   
   3. 🌸 **Iris species prediction app**
   
      A simple app based on the famous Iris dataset that carries out a classification task using a random forest model
-     * GitHub Repository of the project https://github.com/leonardoLavagna/ml-iris-prediction-app
-     * App deployed on Heroku https://ml-iris-prediction-app.herokuapp.com
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/ml-iris-prediction-app
+     * App deployed on Heroku: https://ml-iris-prediction-app.herokuapp.com
 </details>
 
 <details>
@@ -49,14 +49,14 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🦠 **Covid-19 Deaths Data Analysis** 
   
      A simple SQL database that if queried can be used to build interesting visualizations (e.g. on Tableau)
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Covid-19-Analysis
-     * First Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
-     * Second Visualization on Tableau https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Covid-19-Analysis
+     * First Visualization on Tableau: https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
+     * Second Visualization on Tableau: https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView
   
   2. 👷 **Toy Employee**
   
      A simple toy database used to compare SQL and NoSQL features
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Employee
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Toy-Employee
   
 </details>
 
@@ -66,22 +66,22 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🔎 **Simple Search Engines** 
   
      Create some (simple) Search Engines over the "Top Anime Series" from the list of MyAnimeList using Python and web scraping.
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Simple-Search-Engine
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Simple-Search-Engine
   
   2. 🎮 **Steam Reviews Data Analysis**
   
      Study and exploration of some data about the gaming platform Steam
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Steam-Reviews-Analysis
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Steam-Reviews-Analysis
   
   3. 🎧 **Toy Shazam**
        
      Implementation of a simplified version of Shazam by dealing with hashing algorithms
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Toy-Shazam
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Toy-Shazam
   
   4. 📈 **Digitalization of ECGs**
   
      Given an ECG image it get transformed in digital form
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Digitalization-ECGs
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Digitalization-ECGs
    
      
 </details>
@@ -92,20 +92,20 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. ❤️‍🩹 **Heart Disease Prediction** 
   
      Different models to evaluate the risk of cardiovascular diseases
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Heart-disease-prediction
-     * Report https://github.com/leonardoLavagna/Heart-disease-prediction/blob/main/report.pdf
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Heart-disease-prediction
+     * Report: https://github.com/leonardoLavagna/Heart-disease-prediction/blob/main/report.pdf
   
   2. 🚙 **Tesla stock price Analysis and Prediction**
      
      Using the library yfinance and webscraping the historycal share price and revenues of Tesla are studied
      with a classic logistic regression, an XGB Classifier and a Recurrent Neural Network
-     * GitHub Repository of the project https://github.com/leonardoLavagna/tesla-stock-and-revenues-analysis
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/tesla-stock-and-revenues-analysis
   
   3. ⚓ **Image Classification with Real World Data Distributions**
   
      A private kaggle competition organized by [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs) 
      and Sapienza University of Rome. The image classification was done using neural networks.
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Leonardo-Labs-Competition
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Leonardo-Labs-Competition
 </details>
 
 <details>
@@ -114,7 +114,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🔦 **PyTorch Notebooks**
      
      A series of notebooks to familiarize with some important data processing and analysis pipelines based on PyTorch
-     * GitHub Repository of the project https://github.com/leonardoLavagna/PyTorch-Notebooks
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/PyTorch-Notebooks
      
 </details>
 
@@ -124,12 +124,12 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 👀 **Experiments with the library Cv2**
   
      Some computer vision experiments with the library python cv2. 
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Computer-Vision
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Computer-Vision
   
   2. 🕵️ **Image identification via filtering and color hisotgrams**
   
      Image identification based on filters, convolution, and color histograms.
-     * GitHub Repository of the project https://github.com/leonardoLavagna/image-classification
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/image-classification
      
 </details>
 
@@ -139,13 +139,13 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🎵 **Note extraction from sound**
   
      A signal processing tool that turn a song into playable sheet music.
-     * GitHub Repository of the project https://github.com/leonardoLavagna/note_extraction
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/note_extraction
   
   2. 🏥 **Prostate Cancer Genomic Study**
   
      We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
-     * GitHub Repository of the project https://github.com/leonardoLavagna/TCGA-PRAD
-     * Report https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/report.pdf
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/TCGA-PRAD
+     * Report: https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/report.pdf
  
   
   3. 😷 **Epidemic-modelling**
@@ -158,10 +158,10 @@ More than 30 projects in different fields of Information Technologies, Programmi
      ...
      * GitHub Repository of the project 
   
-  5. **Statistical Analysis of Rome Car Accidents**
+  5. 🚔 **Statistical Analysis of Rome Car Accidents**
   
-     ...
-     * GitHub Repository of the project 
+     Using the observed outcomes of the number of car accidents in Rome in 2021 a complete Bayesian analysis is carried out with a conditionally i.i.d. Poisson distribution statistical model. 
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Rome-car-accidents
   
   6. **Statistical Evaluation of the lifetime of innovative light bulbs**
   
@@ -186,7 +186,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🌐 **Programming Internet Sockets**
   
      Scripts to implement a web server, a pinger, a mail server and a web proxy
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Socket-Programming
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Socket-Programming
      
 </details>
 
@@ -196,7 +196,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   1. 🔐 **Inside Rijndael**
   
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Inside-Rijndael
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Inside-Rijndael
   
   2. **Classic Ciphers**
    
@@ -227,7 +227,7 @@ More than 30 projects in different fields of Information Technologies, Programmi
   2. ♟️ **Chess in C**
   
      Implementation of the game of chess in C/C++ froma scratch
-     * GitHub Repository of the project https://github.com/leonardoLavagna/Chess-in-C
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Chess-in-C
   
   3. 💱 **Hang Man**
   
