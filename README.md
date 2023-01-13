@@ -132,49 +132,60 @@ More than 30 projects in different fields of Information Technologies, Programmi
 </details>
 
 <details>
-  <summary>Mathematical and Statistical Modelling (8)</summary>
+  <summary>Mathematical and Statistical Modelling (7)</summary>
   
   1. 🎵 **Note extraction from sound**
   
      A signal processing tool that turn a song into playable sheet music.
      * GitHub Repository of the project: https://github.com/leonardoLavagna/note_extraction
   
+  2. 😷 **Epidemic-modelling**
+    
+     Simulations of various SIR-related models on a network.
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Epidemic-modelling
+     
+  3. **Waves Simulations**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  4. 🚔 **Statistical Analysis of Rome Car Accidents**
+  
+     Using the observed outcomes of the number of car accidents in Rome in 2021 a complete Bayesian analysis is carried out with a conditionally i.i.d. Poisson distribution statistical model. 
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Rome-car-accidents
+  
+  5. **Statistical Evaluation of the lifetime of innovative light bulbs**
+  
+     ...
+     * GitHub Repository of the project 
+  
+  6. **Financial Portfolio Optimization**
+    
+     ...
+     * GitHub Repository of the project 
+  
+  7. **A follow-up study on the paper of Carlin and Gelfand (1991)**
+  
+     ...
+     * GitHub Repository of the project 
+  
+</details>
+
+<details>
+  <summary>Bio-Informatics (8)</summary>
+  
+  1.  💊 **Drug Repurposing**
+  
+     Find new drugs, as well as currently used drugs, associated to Hypertensive Disease using a network approach.
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/Drug-repurposing
+     * Report: https://github.com/leonardoLavagna/Drug-repurposing/blob/main/report.pdf
+    
   2. 🏥 **Prostate Cancer Genomic Study**
   
      We will study from the perspective of Precision Medicine the Prostate Adenocarcinoma Data from the well known [GDC data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD). The main goal of this project is to find hub genes related to the tumor condition.
      * GitHub Repository of the project: https://github.com/leonardoLavagna/TCGA-PRAD
      * Report: https://github.com/leonardoLavagna/TCGA-PRAD/blob/main/report.pdf
  
-  
-  3. 😷 **Epidemic-modelling**
-    
-     Simulations of various SIR-related models on a network.
-     * GitHub Repository of the project: https://github.com/leonardoLavagna/Epidemic-modelling
-     
-  4. **Waves Simulations**
-    
-     ...
-     * GitHub Repository of the project 
-  
-  5. 🚔 **Statistical Analysis of Rome Car Accidents**
-  
-     Using the observed outcomes of the number of car accidents in Rome in 2021 a complete Bayesian analysis is carried out with a conditionally i.i.d. Poisson distribution statistical model. 
-     * GitHub Repository of the project: https://github.com/leonardoLavagna/Rome-car-accidents
-  
-  6. **Statistical Evaluation of the lifetime of innovative light bulbs**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  7. **Financial Portfolio Optimization**
-    
-     ...
-     * GitHub Repository of the project 
-  
-  8. **A follow-up study on the paper of Carlin and Gelfand (1991)**
-  
-     ...
-     * GitHub Repository of the project 
   
 </details>
 
