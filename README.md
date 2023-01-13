@@ -172,7 +172,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 </details>
 
 <details>
-  <summary>Bio-Informatics (8)</summary>
+  <summary>Bio-Informatics (2)</summary>
   
   1.  💊 **Drug Repurposing**
   
