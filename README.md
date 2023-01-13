@@ -176,7 +176,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
   
   1.  💊 **Drug Repurposing**
   
-     Find new drugs, as well as currently used drugs, associated to Hypertensive Disease using a network approach.
+      Find new drugs, as well as currently used drugs, associated to Hypertensive Disease using a network approach
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Drug-repurposing
      * Report: https://github.com/leonardoLavagna/Drug-repurposing/blob/main/report.pdf
     
