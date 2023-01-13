@@ -235,7 +235,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
   
   2. ♟️ **Chess in C**
   
-     Implementation of the game of chess in C/C++ froma scratch
+     Implementation of the game of chess in C/C++ from scratch
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Chess-in-C
   
   3. 💱 **Hang Man**
