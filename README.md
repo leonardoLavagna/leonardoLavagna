@@ -3,8 +3,6 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 
 ### 👨‍💻 I’m currently working on 
 - Power Assignment in Networks
-- DOE for fluidic applications
-- [Drug Repurposing](https://github.com/leonardoLavagna/Drug-repurposing)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
 ### 👥 I’m looking to collaborate on 
