@@ -6,7 +6,9 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
 ### 👥 I’m looking to collaborate on 
-- [Depart de Sentier visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022) *DSVC*
+- Simplicial Homology and Patterns in Complex (real) Data. 
+- A study on the principles of error corrections in quantum machines.
+- A study on momentum computing and its applictions.
 
 ### 📫 Connect with me  
 - llavagna@proton.me 
