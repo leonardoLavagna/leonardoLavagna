@@ -122,9 +122,9 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 <details>
   <summary>Computer Vision (2)</summary>
   
-  1. 👀 **Experiments with the library Cv2**
+  1. 👀 **Experiments with images**
   
-     Some computer vision experiments with the library python cv2. 
+     Some computer vision experiments using the python library cv2 and some matrix completion techniques.
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Computer-Vision
   
   2. 🕵️ **Image identification via filtering and color hisotgrams**
