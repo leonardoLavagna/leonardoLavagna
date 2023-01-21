@@ -193,12 +193,17 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 </details>
 
 <details>
-  <summary>Cloud and Networks (1)</summary>
+  <summary>Networks (2)</summary>
   
   1. 🌐 **Programming Internet Sockets**
   
      Scripts to implement a web server, a pinger, a mail server and a web proxy
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Socket-Programming
+  
+  2. 🕸️ **Examples in graph signal processing**
+  
+     We will be using PyGSP, a Python package to carry out graph signal processing operations.
+     * GitHub Repository of the project: https://github.com/leonardoLavagna/examples-in-graph-signal-processing
      
 </details>
 
