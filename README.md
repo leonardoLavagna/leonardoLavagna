@@ -2,7 +2,7 @@
 I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in the fields of pharmaceutics and biotechnology). I deal mainly with modeling (biology, physics, statistics), data analysis (machine learning, deep learning), cybersecurity (cryptography), and optimization. I enjoy multidisciplinarity, working both independently and in groups. More generally, I am passionate about participating in innovative projects that contribute to the improvement of society and the environment. Here I share some parts of my work as well as those projects I carry out in my free thime and which are helping me grow, both personally and professionally. 
 
 ### 👨‍💻 I’m currently working on 
-- Power Assignment in Networks
+- [Graph Signal Processing](https://github.com/leonardoLavagna/examples-in-graph-signal-processing)
 - [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)
 
 ### 👥 I’m looking to collaborate on 
