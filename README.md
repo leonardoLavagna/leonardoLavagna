@@ -7,9 +7,9 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 
 ### 👥 I’m looking to collaborate on 
 - Project: Simplicial Homology and Patterns in Complex (real, biological) Data. 
-- Study: Principles of error corrections in quantum machines and their implementations.
-- Study: Principles of Momentum computing in the "cold" informatic's framework.
-- Review: C/C++ libraries behind Pythorch models and their applications.
+- Review/Article: Principles of error corrections in quantum machines and their implementations.
+- Review/Article: Principles of Momentum computing in the "cold" informatic's framework.
+- ystematic Review: C/C++ libraries behind Pythorch models and their dependability.
 
 ### 📫 Connect with me  
 - llavagna@proton.me 
