@@ -214,11 +214,12 @@ More than 30 projects in different fields of Information Technologies, Mathemati
   
      Code and Comments to recreate AES S-Boxes for encryption and decryption 
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Inside-Rijndael
+      * Interactive code ..... 
   
   2. **Classic Ciphers**
    
-     ...
-     * GitHub Repository of the project 
+     🔐 Implementation of the Cesar's cipher, and the vigenere cipher in C
+     * GitHub Repository of the project https://github.com/leonardoLavagna/classic-ciphers
   
   3. **Random Password Generator**
   
