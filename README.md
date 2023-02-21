@@ -208,7 +208,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 </details>
 
 <details>
-  <summary>Cryptography (4)</summary>
+  <summary>Cryptography (3)</summary>
   
   1. 🔐 **Inside Rijndael**
   
@@ -221,12 +221,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
      * GitHub Repository of the project https://github.com/leonardoLavagna/classic-ciphers
      * Interactive code: https://onlinegdb.com/gBSX6kuJ0  and https://onlinegdb.com/Dx-lPhhhW
   
-  3. **Random Password Generator**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  4. **RSA**
+  3. **RSA**
   
      ...
      * GitHub Repository of the project 
