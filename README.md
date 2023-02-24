@@ -135,7 +135,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 </details>
 
 <details>
-  <summary>Mathematical and Statistical Modelling (7)</summary>
+  <summary>Mathematical and Statistical Modelling (6)</summary>
   
   1. 🎵 **Note extraction from sound**
   
@@ -162,12 +162,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
      ...
      * GitHub Repository of the project 
   
-  6. **Financial Portfolio Optimization**
-    
-     ...
-     * GitHub Repository of the project 
-  
-  7. **A follow-up study on the paper of Carlin and Gelfand (1991)**
+  6. **A follow-up study on the paper of Carlin and Gelfand (1991)**
   
      ...
      * GitHub Repository of the project 
