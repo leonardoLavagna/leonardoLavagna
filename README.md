@@ -223,8 +223,9 @@ More than 30 projects in different fields of Information Technologies, Mathemati
   
   3. **RSA**
   
-     ...
-     * GitHub Repository of the project 
+     🔐 A simple implementation of the standard RSA algorithm for asymmetric key cryptography.
+     * GitHub Repository of the project https://github.com/leonardoLavagna/RSA-in-C
+     * Interactive code: https://onlinegdb.com/sjXC-t22a 
   
 </details>
   
