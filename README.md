@@ -246,9 +246,10 @@ More than 30 projects in different fields of Information Technologies, Mathemati
   
   4. **Nim, Tris and Hanoi Towers**
   
-     ...
-     * GitHub Repository of the project 
-     
+     👾 Some games implemented in C
+     * GitHub Repository of the project https://github.com/leonardoLavagna/Games-in-C
+     * Interactive code: Tris https://onlinegdb.com/eXkEZMznM , Hanoi https://onlinegdb.com/SYl7JCxPk, Nim https://onlinegdb.com/ajXKz_jMx           
+    
 </details>
 
 <details>
