@@ -9,7 +9,6 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 - [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/). 
 - [Principles of error corrections in quantum machines and their implementations](https://www.scientificamerican.com/article/how-to-fix-quantum-computing-bugs/).
 - [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/).
-- C/C++ libraries behind Pythorch models and their dependability.
 
 For all the references, code and discussions see the associated repository: [Collaborations](https://github.com/leonardoLavagna/Collaborations).
 
