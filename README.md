@@ -10,6 +10,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 - [Principles of error corrections in quantum machines and their implementations](https://www.scientificamerican.com/article/how-to-fix-quantum-computing-bugs/).
 - [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/).
 - C/C++ libraries behind Pythorch models and their dependability.
+
 For all the references, code and discussions see the associated repository: [Collaborations](https://github.com/leonardoLavagna/Collaborations).
 
 ### 📫 Connect with me  
