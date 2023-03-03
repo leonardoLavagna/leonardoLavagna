@@ -136,7 +136,7 @@ More than 30 projects in different fields of Information Technologies, Mathemati
 </details>
 
 <details>
-  <summary>Mathematical and Statistical Modelling (6)</summary>
+  <summary>Mathematical and Statistical Modelling (4)</summary>
   
   1. 🎵 **Note extraction from sound**
   
