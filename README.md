@@ -158,16 +158,6 @@ More than 30 projects in different fields of Information Technologies, Mathemati
      Using the observed outcomes of the number of car accidents in Rome in 2021 a complete Bayesian analysis is carried out with a conditionally i.i.d. Poisson distribution statistical model. 
      * GitHub Repository of the project: https://github.com/leonardoLavagna/Rome-car-accidents
   
-  5. **Statistical Evaluation of the lifetime of innovative light bulbs**
-  
-     ...
-     * GitHub Repository of the project 
-  
-  6. **A follow-up study on the paper of Carlin and Gelfand (1991)**
-  
-     ...
-     * GitHub Repository of the project 
-  
 </details>
 
 <details>
