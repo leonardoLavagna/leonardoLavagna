@@ -15,7 +15,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 
 
 ## Things I code with
-[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=20)](https://skillicons.dev)
 
 
 ### This is my portfolio 
