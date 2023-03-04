@@ -7,11 +7,6 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 | [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)  | [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/)  |
 | Updating portfolio and references for collaboartions | [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/)  |
 
-### 📫 Connect with me  
-- llavagna@proton.me 
-- [Linkedin](https://www.linkedin.com/in/leonardo-lavagna-0675a81a2/)
-- [Hackerrank](https://www.hackerrank.com/lavagna/)
-
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=20)](https://skillicons.dev)
 
