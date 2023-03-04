@@ -8,15 +8,13 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 | Updating portfolio and references for collaboartions | [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/)  |
 
 
+### Things I code with
+[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=20)](https://skillicons.dev)
+
 ### 📫 Connect with me  
 - llavagna@proton.me 
 - [Linkedin](https://www.linkedin.com/in/leonardo-lavagna-0675a81a2/)
 - [Hackerrank](https://www.hackerrank.com/lavagna/)
-
-
-## Things I code with
-[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=20)](https://skillicons.dev)
-
 
 ### This is my portfolio 
 More than 30 projects in different fields of Information Technologies, Mathematical and Statistical Modelling, Programming, Bio-Informatics, and Data Science
