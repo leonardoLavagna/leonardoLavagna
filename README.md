@@ -18,7 +18,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 
 
 ## new
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ### This is my portfolio 
