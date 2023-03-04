@@ -21,15 +21,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 <a href="https://github.com/leonardoLavagna/leonardoLavagna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoLavagna&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-<a href="https://github.com/leonardoLavagna/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoLavagna&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/leonardoLavagna/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoLavagna&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  
 
 ### This is my portfolio 
 More than 30 projects in different fields of Information Technologies, Mathematical and Statistical Modelling, Programming, Bio-Informatics, and Data Science
