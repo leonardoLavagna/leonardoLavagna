@@ -9,7 +9,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 | Updating portfolio and references for collaboartions | [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/)  |
 
 ### Things I code with
-[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,r,c,cpp,html,java,matlab,octave,latex,mysql,mongodb,wordpress,git,github&perline=16)](https://skillicons.dev)
 
 
 ### This is my portfolio 
