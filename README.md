@@ -2,6 +2,13 @@
 I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in the fields of pharmaceutics and biotechnology). I deal mainly with modeling (biology, physics, statistics), data analysis (machine learning, deep learning), cybersecurity (cryptography), and optimization. I enjoy multidisciplinarity, working both independently and in groups. More generally, I am passionate about participating in innovative projects that contribute to the improvement of society and the environment. Here I share some parts of my work as well as those projects I carry out in my free time and which are helping me grow, both personally and professionally. 
 <br/><br/>
 
+<a href="https://github.com/leonardoLavagna/leonardoLavagna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoLavagna&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/leonardoLavagna/leonardoLavagna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoLavagna&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Leonardo's GitHub Stats" />
+</a>
+
 | 👨‍💻 I’m currently working on   | 👥 I’m looking to collaborate on|
 | ------------- | ------------- |
 | [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)  | [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/)  |
