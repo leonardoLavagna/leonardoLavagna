@@ -6,7 +6,7 @@ I'm a Data Scientist at Unilab (an Italian consulting firm active primarely in t
 | 👨‍💻 I’m currently working on   | 👥 I’m looking to collaborate on|
 | ------------- | ------------- |
 | [PyTorch Notebooks](https://github.com/leonardoLavagna/PyTorch-Notebooks)  | [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/)  |
-| Updating portfolio and references for collaboartions | [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/)  |
+| [Quantum Machine Learning](https://github.com/leonardoLavagna/Quantum-Machine-Learning) | [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/)  |
 
 If you are interested in collaborating with me contact me by e-mail or on Linkedin. Furter references and discussions about the projects can be found in the [Collaborations Repository](https://github.com/leonardoLavagna/Collaborations). 
 
