@@ -6,8 +6,3 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
-[comment]: <> <picture>
-[comment]: <>   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/output/github-snake-dark.svg" />
-[comment]: <>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/output/github-snake.svg" />
-[comment]: <>  <img alt="github-snake" src="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/output/github-snake.svg" />
-[comment]: <> </picture>
