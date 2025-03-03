@@ -13,4 +13,8 @@ Current state of the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Han
 
 <!-- GameState -->
 
-Submit a move to update the game!
+Click a move to update the game!
+
+**Available Moves:**
+<!-- LegalMoves -->
+
