@@ -1,47 +1,32 @@
-import sys
-import re
-from pathlib import Path
-
-# Define patterns for disks (larger the disk, the more stars)
-patterns = [
-    "    |    ",  # Empty peg (no disk)
-    "    *    ",  # Disk 1 (smallest)
-    "   **    ",  # Disk 2
-    "  ***    ",  # Disk 3 (largest)
-]
-
 class TowerOfHanoi:
     def __init__(self, n):
-        # Initialize the pegs with disks (disks are represented by their index number: larger index = larger disk)
+        # Initialize the pegs with disks (disks are represented by their size: 3, 2, 1)
         self.n = n
-        # Peg 1 has all disks: 3 (largest), 2, 1 (smallest)
-        self.pegs = {1: [3, 2, 1], 2: [], 3: []}  # Peg 1: [3, 2, 1] -> Disk 3 is the largest, disk 1 is the smallest
+        # Peg 1 starts with all disks, Peg 2 and Peg 3 are empty
+        self.pegs = {1: [3, 2, 1], 2: [], 3: []}  # Peg 1: [3, 2, 1]
 
     def print_state(self):
-        """Returns the current state of the Tower of Hanoi as a string."""
-        # Initialize an empty table for the game state
-        table = []
-        
-        # We go through each level of the tower from bottom to top
+        """Print the current state of the Tower of Hanoi."""
+        patterns = {
+            0: "    |    ",  # Empty peg (no disk)
+            1: "    *    ",  # Disk 1 (smallest)
+            2: "   **    ",  # Disk 2
+            3: "  ***    ",  # Disk 3 (largest)
+        }
+
+        # Loop through each row of the tower (from largest disk to smallest)
         for level in range(self.n, 0, -1):
             row = []
             for peg in range(1, 4):
                 if len(self.pegs[peg]) >= level:
-                    disk_size = self.pegs[peg][-level]  # Disk size is the value of the disk (1 to 3)
-                    row.append(f"{patterns[disk_size]:^11}")  # Center the pattern in the column
+                    disk = self.pegs[peg][-level]
+                    row.append(f"{patterns[disk]:^11}")  # Center the disk pattern
                 else:
-                    row.append(f"{patterns[0]:^11}")  # No disk, just the empty peg
-            table.append(row)
+                    row.append(f"{patterns[0]:^11}")  # Empty peg
+            print("|".join(row))
         
-        # Add Peg Labels at the bottom
-        table.append([f'{"Peg 1".center(11)}', f'{"Peg 2".center(11)}', f'{"Peg 3".center(11)}'])
-        
-        # Convert table into a Markdown-compatible string
-        markdown_table = ""
-        for row in table:
-            markdown_table += "|" + "|".join(row) + "|\n"
-        markdown_table = markdown_table.replace("\n", "\n|---|---|---|\n", 1)  # Add separator row after header
-        return markdown_table.strip()
+        # Print the labels for the pegs
+        print(f"{'Peg 1':^11}|{'Peg 2':^11}|{'Peg 3':^11}")
 
     def move_disk(self, from_peg, to_peg):
         """Move a disk from one peg to another."""
@@ -72,48 +57,24 @@ class TowerOfHanoi:
         if match:
             disk_num, from_peg, to_peg = map(int, match.groups())
             self.move_disk(from_peg, to_peg)
-            return self.print_state()
+            self.print_state()
         else:
-            return "Invalid move format"
+            print("Invalid move format")
 
 
-# Main logic to update README with new state
-def update_readme_with_move(move):
+# Example of initializing the game and printing the state
+if __name__ == "__main__":
     # Number of disks (3 disks)
     n = 3
+    game = TowerOfHanoi(n)
 
-    # Initialize the game
-    hanoi = TowerOfHanoi(n)
+    # Print initial game state
+    game.print_state()
 
-    # Get the updated state after the move
-    updated_state = hanoi.solve_move(move)
+    # Example: Make a move and print updated state
+    move = "Move disk 1 from peg 1 to peg 2"
+    print(f"\nMaking move: {move}")
+    game.solve_move(move)
 
-    # Get the legal moves for the current state
-    legal_moves = hanoi.get_legal_moves()
-
-    # Path to the README file
-    readme_path = Path("README.md")
-
-    # Read the current README content
-    with open(readme_path, "r") as file:
-        content = file.read()
-
-    # Generate clickable move links in the README
-    move_links = "\n".join([f"- [**{move}**](https://github.com/yourusername/yourrepository/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
-
-    # Replace the placeholders with the updated game state and legal moves
-    new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
-    new_content = new_content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
-
-    # Write the updated content back to README
-    with open(readme_path, "w") as file:
-        file.write(new_content)
-
-    print("README updated successfully!")
-
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Please provide a move as an argument.")
-    else:
-        move = sys.argv[1]  # Get the move from the command-line argument
-        update_readme_with_move(move)
+    # Print updated state
+    game.print_state()
