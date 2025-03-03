@@ -15,7 +15,7 @@ class TowerOfHanoi:
         # Initialize the pegs with disks (disks are represented by their index number: larger index = larger disk)
         self.n = n
         # Peg 1 has all disks: 3 (largest), 2, 1 (smallest)
-        self.pegs = {1: [1, 2, 3], 2: [], 3: []}  # Peg 1: [1, 2, 3] -> Disk 1 is the smallest, disk 3 is the largest
+        self.pegs = {1: [3, 2, 1], 2: [], 3: []}  # Peg 1: [3, 2, 1] -> Disk 3 is the largest, disk 1 is the smallest
 
     def print_state(self):
         """Returns the current state of the Tower of Hanoi as a string."""
@@ -34,12 +34,12 @@ class TowerOfHanoi:
             table.append(row)
         
         # Add Peg Labels at the bottom
-        table.append(['Peg 1'.center(11), 'Peg 2'.center(11), 'Peg 3'.center(11)])
+        table.append([f'{"Peg 1".center(11)}', f'{"Peg 2".center(11)}', f'{"Peg 3".center(11)}'])
         
         # Convert table into a Markdown-compatible string
         markdown_table = ""
         for row in table:
-            markdown_table += "|".join(row) + "\n"
+            markdown_table += "|" + "|".join(row) + "|\n"
         markdown_table = markdown_table.replace("\n", "\n|---|---|---|\n", 1)  # Add separator row after header
         return markdown_table.strip()
 
@@ -99,7 +99,7 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [**{move}**](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [**{move}**](https://github.com/yourusername/yourrepository/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
     # Replace the placeholders with the updated game state and legal moves
     new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
