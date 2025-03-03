@@ -6,76 +6,66 @@ class TowerOfHanoi:
     def __init__(self, n):
         # Initialize the pegs with disks (disks are represented by numbers: larger number = larger disk)
         self.n = n
-        # Representing the pegs using a 2D array similar to your C code (with disks on peg 1)
-        self.pegs = [[0, 0, 0] for _ in range(n)]  # Initialize with 0s (empty pegs)
-        for i in range(n):
-            self.pegs[i][0] = n - i  # Fill peg 1 with disks (largest disk at bottom)
+        self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks
+        self.pattern = [
+            "    |    ",  # Empty peg
+            "    *    ",
+            "   ***   ",
+            "  *****  ",
+            " ******* ",
+            "*********"
+        ]
 
     def print_state(self):
-        """Print the current state of the Tower of Hanoi with proper alignment."""
-        patterns = {
-            0: "    |    ",  # Empty peg (no disk)
-            1: "    *    ",  # Disk 1 (smallest)
-            2: "   **    ",  # Disk 2
-            3: "  ***    ",  # Disk 3
-            4: "  *****  ",  # Disk 4
-            5: " ******* ",  # Disk 5 (for up to 5 disks)
-            6: "********* ",  # Disk 6 (for up to 6 disks)
-        }
-
-        # Print each level of the pegs
+        """Print the current state of the Tower of Hanoi as a string."""
+        # Prepare the board display
+        board = ""
         for i in range(self.n):
             row = []
-            for j in range(3):  # 3 pegs
-                if self.pegs[i][j] != 0:
-                    disk = self.pegs[i][j]
-                    row.append(f"{patterns[disk]:^11}")  # Center the disk
-                else:
-                    row.append(f"{patterns[0]:^11}")  # Empty peg
-            print("|".join(row))
-        print("-----------------------------")
-        print("\n")
+            for peg in range(1, 4):
+                disk_size = self.pegs[peg][i] if i < len(self.pegs[peg]) else 0
+                row.append(self.pattern[disk_size])
+            board += " ".join(row) + "\n"
+        return board.strip()
 
     def move_disk(self, from_peg, to_peg):
         """Move a disk from one peg to another."""
-        # Find the first non-zero (disk) on the source peg
-        source_disk_index = next(i for i in range(self.n) if self.pegs[i][from_peg] != 0)
-        dest_disk_index = next(i for i in range(self.n-1, -1, -1) if self.pegs[i][to_peg] == 0)
-
-        # Move the disk
-        disk = self.pegs[source_disk_index][from_peg]
-        self.pegs[source_disk_index][from_peg] = 0
-        self.pegs[dest_disk_index][to_peg] = disk
-
-        # Print the updated state
-        self.print_state()
+        if not self.pegs[from_peg]:
+            print(f"Error: No disks on Peg {from_peg}")
+            return False
+        disk = self.pegs[from_peg].pop()
+        self.pegs[to_peg].append(disk)
+        return True
 
     def get_legal_moves(self):
         """Return a list of all legal moves based on the current game state."""
         legal_moves = []
-        for from_peg in range(3):  # Check each peg
-            if any(self.pegs[i][from_peg] != 0 for i in range(self.n)):  # If there are disks on the peg
-                for to_peg in range(3):
-                    if from_peg != to_peg and (not any(self.pegs[i][to_peg] != 0 for i in range(self.n)) or
-                                                self.pegs[self.n-1][from_peg] < self.pegs[self.n-1][to_peg]):
-                        legal_moves.append((from_peg, to_peg))
+        for from_peg in range(1, 4):
+            if self.pegs[from_peg]:  # If there are disks on this peg
+                for to_peg in range(1, 4):
+                    if from_peg != to_peg and (not self.pegs[to_peg] or self.pegs[from_peg][-1] < self.pegs[to_peg][-1]):
+                        # Move from from_peg to to_peg is legal
+                        disk = self.pegs[from_peg][-1]
+                        move_str = f"Move disk {disk} from peg {from_peg} to peg {to_peg}"
+                        legal_moves.append(move_str)
         return legal_moves
 
     def solve_move(self, move):
         """Processes a move and updates the state."""
+        # Parsing the move like "Move disk 1 from peg 1 to peg 2"
         match = re.match(r"Move disk (\d+) from peg (\d+) to peg (\d+)", move)
         if match:
-            _, from_peg, to_peg = map(int, match.groups())
-            self.move_disk(from_peg-1, to_peg-1)  # Subtract 1 for zero-indexing
-            self.print_state()
+            disk_num, from_peg, to_peg = map(int, match.groups())
+            self.move_disk(from_peg, to_peg)
+            return self.print_state()
         else:
-            print("Invalid move format")
+            return "Invalid move format"
 
 
-# Example of initializing the game and printing the state
+# Main logic to update README with new state
 def update_readme_with_move(move):
     # Number of disks (You can change this value)
-    n = 4
+    n = 3
 
     # Initialize the game
     hanoi = TowerOfHanoi(n)
@@ -94,7 +84,7 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [{move}](https://github.com/yourusername/yourrepository/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
     # Replace the placeholder with the legal move links
     new_content = content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
@@ -104,7 +94,6 @@ def update_readme_with_move(move):
         file.write(new_content)
 
     print("README updated successfully!")
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
