@@ -2,14 +2,24 @@ import sys
 import re
 from pathlib import Path
 
+# Define patterns for disks (the larger the disk, the more stars)
+patterns = [
+    "    |    ",  # Empty peg (no disk)
+    "    *    ",  # Disk 1
+    "   ***   ",  # Disk 2
+    "  *****  ",  # Disk 3
+    " ******* ",  # Disk 4
+    "*********"   # Disk 5 (max disk size)
+]
+
 class TowerOfHanoi:
     def __init__(self, n):
-        # Initialize the pegs with disks (disks are represented by numbers: larger number = larger disk)
+        # Initialize the pegs with disks (disks are represented by their index number: larger index = larger disk)
         self.n = n
-        self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks
+        self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks, largest at the bottom
 
     def print_state(self):
-        """Returns the current state of the Tower of Hanoi as a string (ASCII art)."""
+        """Returns the current state of the Tower of Hanoi as a string (using the patterns)."""
         state = "\n"
         max_disk_size = self.n  # The largest disk is the first disk
         for level in range(max_disk_size, 0, -1):
@@ -17,10 +27,10 @@ class TowerOfHanoi:
             row = ""
             for peg in range(1, 4):
                 if len(self.pegs[peg]) >= level:
-                    disk_size = self.pegs[peg][-level]
-                    row += f" {'-' * disk_size:^{max_disk_size}} "  # Represent the disk with '-'
+                    disk_size = self.pegs[peg][-level]  # Disk size is the value of the disk (1 to n)
+                    row += f" {patterns[disk_size]:^{max_disk_size * 2}} "  # Center the pattern in the column
                 else:
-                    row += f" {' ' * max_disk_size} "  # No disk, just an empty space
+                    row += f" {patterns[0]:^{max_disk_size * 2}} "  # No disk, just the empty peg
             state += row + "\n"
         state += "\nPeg 1    Peg 2    Peg 3\n"  # Labels for the pegs
         return state.strip()
@@ -81,7 +91,7 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagnay/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
     # Replace the placeholders with the updated game state and legal moves
     new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
