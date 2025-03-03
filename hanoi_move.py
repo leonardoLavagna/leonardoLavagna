@@ -71,7 +71,7 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [{move}](https://github.com/yourusername/yourrepository/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
     # Replace the placeholder with the legal move links
     new_content = content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
