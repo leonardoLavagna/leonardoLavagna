@@ -17,6 +17,10 @@ Click a move to update the game!
 
 **Available Moves:**
 <!-- LegalMoves -->
+- [Move disk 2 from peg 1 to peg 2](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%202%20from%20peg%201%20to%20peg%202)
+- [Move disk 1 from peg 3 to peg 1](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%201%20from%20peg%203%20to%20peg%201)
+- [Move disk 1 from peg 3 to peg 2](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%201%20from%20peg%203%20to%20peg%202)
+
 - [Move disk 2 from peg 1 to peg 3](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%202%20from%20peg%201%20to%20peg%203)
 - [Move disk 1 from peg 2 to peg 1](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%201%20from%20peg%202%20to%20peg%201)
 - [Move disk 1 from peg 2 to peg 3](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title=Move%20disk%201%20from%20peg%202%20to%20peg%203)
