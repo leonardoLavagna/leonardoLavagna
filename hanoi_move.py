@@ -19,18 +19,17 @@ class TowerOfHanoi:
         self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks, largest at the bottom
 
     def print_state(self):
-        """Returns the current state of the Tower of Hanoi as a string (using the patterns)."""
+        """Returns the current state of the Tower of Hanoi as a string."""
         state = "\n"
-        max_disk_size = self.n  # The largest disk is the first disk
-        for level in range(max_disk_size, 0, -1):
+        for level in range(self.n, 0, -1):
             # Print each level across the three pegs
             row = ""
             for peg in range(1, 4):
                 if len(self.pegs[peg]) >= level:
                     disk_size = self.pegs[peg][-level]  # Disk size is the value of the disk (1 to n)
-                    row += f" {patterns[disk_size]:^{max_disk_size * 2}} "  # Center the pattern in the column
+                    row += f" {patterns[disk_size]:^{self.n * 2}} "  # Center the pattern in the column
                 else:
-                    row += f" {patterns[0]:^{max_disk_size * 2}} "  # No disk, just the empty peg
+                    row += f" {patterns[0]:^{self.n * 2}} "  # No disk, just the empty peg
             state += row + "\n"
         state += "\nPeg 1    Peg 2    Peg 3\n"  # Labels for the pegs
         return state.strip()
@@ -102,7 +101,6 @@ def update_readme_with_move(move):
         file.write(new_content)
 
     print("README updated successfully!")
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
