@@ -11,26 +11,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 Current state of the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi):
 
-<!-- GameState -->
-|     |     |     |     |     
-|---|---|---|
-     *     |     |     |     |     
-    **     |     |     |   ***     
-   Peg 1   |   Peg 2   |   Peg 3
-
-|          |          |     
-   *****        |          |     
-    ***         *          |     
-
-Peg 1    Peg 2    Peg 3
-
-|          |          |     
-   *****        |          |     
-    ***         |          *     
-
-Peg 1    Peg 2    Peg 3
-
----           
+<!-- GameState -->   
 
 Click a move to update the game!
 
