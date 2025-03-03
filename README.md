@@ -25,10 +25,6 @@ Peg 1    Peg 2    Peg 3
 Peg 1    Peg 2    Peg 3
 
 ---           
- --         -  
-
-Peg 1    Peg 2    Peg 3
-
 
 Click a move to update the game!
 
