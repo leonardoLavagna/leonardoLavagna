@@ -6,3 +6,14 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
+
+### Do you want to play the Tower of Hanoi game?
+<div id="towerOfHanoi">
+    <div class="peg" id="peg1">
+        <div class="disk" id="disk1"></div>
+        <div class="disk" id="disk2"></div>
+        <div class="disk" id="disk3"></div>
+    </div>
+    <div class="peg" id="peg2"></div>
+    <div class="peg" id="peg3"></div>
+</div>
