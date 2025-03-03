@@ -86,8 +86,9 @@ def update_readme_with_move(move):
     # Generate clickable move links in the README
     move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
-    # Replace the placeholder with the legal move links
-    new_content = content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
+    # Replace the placeholder with the game state and legal move links
+    new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
+    new_content = new_content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
 
     # Write the updated content back to README
     with open(readme_path, "w") as file:
