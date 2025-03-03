@@ -2,37 +2,46 @@ import sys
 import re
 from pathlib import Path
 
-# Define patterns for disks (the larger the disk, the more stars)
+# Define patterns for disks (larger the disk, the more stars)
 patterns = [
     "    |    ",  # Empty peg (no disk)
-    "    *    ",  # Disk 1
-    "   ***   ",  # Disk 2
-    "  *****  ",  # Disk 3
-    " ******* ",  # Disk 4
-    "*********"   # Disk 5 (max disk size)
+    "    *    ",  # Disk 1 (smallest)
+    "   **    ",  # Disk 2
+    "  ***    ",  # Disk 3 (largest)
 ]
 
 class TowerOfHanoi:
     def __init__(self, n):
         # Initialize the pegs with disks (disks are represented by their index number: larger index = larger disk)
         self.n = n
-        self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks, largest at the bottom
+        # Peg 1 has all disks: 3 (largest), 2, 1 (smallest)
+        self.pegs = {1: [1, 2, 3], 2: [], 3: []}  # Peg 1: [1, 2, 3] -> Disk 1 is the smallest, disk 3 is the largest
 
     def print_state(self):
         """Returns the current state of the Tower of Hanoi as a string."""
-        state = "\n"
+        # Initialize an empty table for the game state
+        table = []
+        
+        # We go through each level of the tower from bottom to top
         for level in range(self.n, 0, -1):
-            # Print each level across the three pegs
-            row = ""
+            row = []
             for peg in range(1, 4):
                 if len(self.pegs[peg]) >= level:
-                    disk_size = self.pegs[peg][-level]  # Disk size is the value of the disk (1 to n)
-                    row += f" {patterns[disk_size]:^{self.n * 2}} "  # Center the pattern in the column
+                    disk_size = self.pegs[peg][-level]  # Disk size is the value of the disk (1 to 3)
+                    row.append(f"{patterns[disk_size]:^11}")  # Center the pattern in the column
                 else:
-                    row += f" {patterns[0]:^{self.n * 2}} "  # No disk, just the empty peg
-            state += row + "\n"
-        state += "\nPeg 1    Peg 2    Peg 3\n"  # Labels for the pegs
-        return state.strip()
+                    row.append(f"{patterns[0]:^11}")  # No disk, just the empty peg
+            table.append(row)
+        
+        # Add Peg Labels at the bottom
+        table.append(['Peg 1'.center(11), 'Peg 2'.center(11), 'Peg 3'.center(11)])
+        
+        # Convert table into a Markdown-compatible string
+        markdown_table = ""
+        for row in table:
+            markdown_table += "|".join(row) + "\n"
+        markdown_table = markdown_table.replace("\n", "\n|---|---|---|\n", 1)  # Add separator row after header
+        return markdown_table.strip()
 
     def move_disk(self, from_peg, to_peg):
         """Move a disk from one peg to another."""
@@ -70,7 +79,7 @@ class TowerOfHanoi:
 
 # Main logic to update README with new state
 def update_readme_with_move(move):
-    # Number of disks (You can change this value)
+    # Number of disks (3 disks)
     n = 3
 
     # Initialize the game
@@ -90,7 +99,7 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [**{move}**](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
     # Replace the placeholders with the updated game state and legal moves
     new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
