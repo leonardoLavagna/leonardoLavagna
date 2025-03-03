@@ -8,12 +8,9 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 
 ### Do you want to play the Tower of Hanoi game?
-<div id="towerOfHanoi">
-    <div class="peg" id="peg1">
-        <div class="disk" id="disk1"></div>
-        <div class="disk" id="disk2"></div>
-        <div class="disk" id="disk3"></div>
-    </div>
-    <div class="peg" id="peg2"></div>
-    <div class="peg" id="peg3"></div>
-</div>
+
+Current state of the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi):
+
+<!-- GameState -->
+
+Submit a move to update the game!
