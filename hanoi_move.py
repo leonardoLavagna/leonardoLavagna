@@ -9,10 +9,20 @@ class TowerOfHanoi:
         self.pegs = {1: list(range(n, 0, -1)), 2: [], 3: []}  # Peg 1 has all disks
 
     def print_state(self):
-        """Returns the current state of the Tower of Hanoi as a string."""
-        state = ""
-        for peg in range(1, 4):
-            state += f"Peg {peg}: {self.pegs[peg]}\n"
+        """Returns the current state of the Tower of Hanoi as a string (ASCII art)."""
+        state = "\n"
+        max_disk_size = self.n  # The largest disk is the first disk
+        for level in range(max_disk_size, 0, -1):
+            # Print each level across the three pegs
+            row = ""
+            for peg in range(1, 4):
+                if len(self.pegs[peg]) >= level:
+                    disk_size = self.pegs[peg][-level]
+                    row += f" {'-' * disk_size:^{max_disk_size}} "  # Represent the disk with '-'
+                else:
+                    row += f" {' ' * max_disk_size} "  # No disk, just an empty space
+            state += row + "\n"
+        state += "\nPeg 1    Peg 2    Peg 3\n"  # Labels for the pegs
         return state.strip()
 
     def move_disk(self, from_peg, to_peg):
@@ -71,16 +81,18 @@ def update_readme_with_move(move):
         content = file.read()
 
     # Generate clickable move links in the README
-    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagna/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
+    move_links = "\n".join([f"- [{move}](https://github.com/leonardoLavagna/leonardoLavagnay/issues/new?title={move.replace(' ', '%20')})" for move in legal_moves])
 
-    # Replace the placeholder with the legal move links
-    new_content = content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
+    # Replace the placeholders with the updated game state and legal moves
+    new_content = content.replace("<!-- GameState -->", f"<!-- GameState -->\n{updated_state}\n")
+    new_content = new_content.replace("<!-- LegalMoves -->", f"<!-- LegalMoves -->\n{move_links}\n")
 
     # Write the updated content back to README
     with open(readme_path, "w") as file:
         file.write(new_content)
 
     print("README updated successfully!")
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
