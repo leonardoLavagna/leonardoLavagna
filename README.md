@@ -4,7 +4,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 <br/><br/>
 
 ### Things I code with
-[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
 
 
