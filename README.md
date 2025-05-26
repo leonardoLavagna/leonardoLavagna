@@ -7,34 +7,6 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
 ### Some stats
-# 👋 Hi, I’m Leonardo Lavagna
-
-PhD candidate in Quantum Computing | Data Scientist | Mathematician  
-Enthusiastic about innovation, science, and collaboration.
-
----
-
-### GitHub Profile Summary
-
-| 🔧 Activity                                                                       | 🌍 Community Stats                                                                                     | 📦 Repository Overview                                                                 |
-|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| ![Commits](https://img.shields.io/badge/Commits-💻-informational?style=flat)    | ⭐ Starred repos: [![Stars](https://img.shields.io/github/stars/leonardoLavagna?style=social)](https://github.com/leonardoLavagna?tab=stars) | Public Repos: **see GitHub sidebar**                                                |
-| ![PRs](https://img.shields.io/badge/Pull%20Requests-🔃-informational?style=flat) | Organizations: 2                                                       | 🏷️ Releases: *(link to key project releases)*                                          |
-| ![Issues](https://img.shields.io/badge/Issues-🧾-informational?style=flat)       | ![Followers](https://img.shields.io/github/followers/leonardoLavagna?style=social)       |  Packages: *-*                             |
-| ![Code Reviews](https://img.shields.io/badge/Code%20Reviews-🔍-informational?style=flat) | 💬 Discussions: *(if enabled)*                                                                  | 🛠️ Notable Repos: [Collaborations](https://github.com/leonardoLavagna/Collaborations)  |
-
----
-
-### Contribution Calendar
-
-<!-- Use either static or self-hosted SVG below -->
-
-![3D Contribution Graph](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-night-rainbow.svg)
-<!-- Alternative:
-![Contributions](https://ghchart.rshah.org/leonardoLavagna)
--->
-
-
 
 
 
