@@ -1,0 +1,19 @@
+name: Update GitHub Stats Table
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch and update GitHub stats
+        uses: jaywcjlove/github-action-readme-stats@main
+        with:
+          username: leonardoLavagna
+          commit_message: "Update GitHub stats"
