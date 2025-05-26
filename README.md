@@ -7,6 +7,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
 ### Some stats
-
+<!-- STATS-TABLE:START -->
+<!-- STATS-TABLE:END -->
 
 
