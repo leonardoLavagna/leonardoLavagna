@@ -10,7 +10,10 @@ For more information check [my website](https://leonardolavagna.github.io/) or [
 - [New Dataset available on Kaggle!](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
 - [Attending the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
 
-
+### Recent Blog Posts
+<div id="recent-posts">
+  Loading latest posts from [lavagnaleo.wordpress.com](https://lavagnaleo.wordpress.com/)...
+</div>
 
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
