@@ -11,9 +11,9 @@ For more information check [my website](https://leonardolavagna.github.io/) or [
 - [Attending the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
 
 ### Recent Blog Posts
+- [Rogue waves and the non-linear Schrödinger equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
 - [Merging Hyperdimensional computing and Quantum computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
 - [Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
-- [Evolving Hybrid Quantum-Classical GRU Architectures for Multivariate Time Series](https://lavagnaleo.wordpress.com/2024/11/25/evolving-hybrid-quantum-classical-gru-architectures-for-multivariate-time-series/)
 
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
