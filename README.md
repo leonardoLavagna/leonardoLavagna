@@ -5,6 +5,13 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 For more information check [my website](https://leonardolavagna.github.io/) or [my blog](https://lavagnaleo.wordpress.com/). Yes, I know... maybe blogs and websites are outdated, but I love them! I feel more connected to blog posts than, say, LinkedIn updates or the usual social media shenanigans.
 
+### News
+- [Materials related to the 2025 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
+- [New Dataset available on Kaggle!](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
+- [Attending the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
+
+
+
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
