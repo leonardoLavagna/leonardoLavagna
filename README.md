@@ -15,6 +15,13 @@ For more information check [my website](https://leonardolavagna.github.io/) or [
 - [Merging Hyperdimensional computing and Quantum computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
 - [Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
+### Apps
+- [Quantum optimization](https://quantum-optimization-app.streamlit.app/)
+- [Molecules solubility prediction](https://moleculesolubilityprediction.streamlit.app/)
+- [DNA sequence explorer](https://nucleotidecount.streamlit.app/)
+- [Look-and-say](https://decadimendo-audioattivo.streamlit.app/) (in Italian, based on [Conway's look-and-say game](https://en.wikipedia.org/wiki/Look-and-say_sequence))
+- [Smart microfluidics](https://smart-microfluidics.streamlit.app/)
+  
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
 
