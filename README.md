@@ -1,6 +1,5 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/main/wave.gif" width="30px" height="30px" /> Ciao! I'm Leonardo Lavagna (or just Leo) <br /><br /> A Curious Mathematician & Quantum Explorer from Italy</h2>
 
----
 
 ### 🌍 About Me  
 
@@ -10,21 +9,18 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 > 📚 I also write! Yes, on an actual **blog** — because I still believe in the long form. [Check it out](https://lavagnaleo.wordpress.com/), along with my [personal website](https://leonardolavagna.github.io/).
 
----
 
 ### ✨ Latest News
 - 🧠 [Materials for my talk at ISCAS 2025](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
 - 📊 [New Dataset dropped on Kaggle](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
 - 🤖 [Heading to IJCNN 2025!](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
 
----
 
 ### 📝 Fresh from the Blog
 - 🌊 [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
 - 🧩 [Merging Hyperdimensional and Quantum Computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
 - 🔐 [Hellman’s Construction in the Age of Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
----
 
 ### 🚀 Apps, Demos & Explorations
 - 🧠 [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)
@@ -33,7 +29,6 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 - 🔢 [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 - 🧪 [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
 
----
 
 ### 🧰 Tools & Tech I Work With  
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,arduino,apple&perline=16)](https://skillicons.dev)
