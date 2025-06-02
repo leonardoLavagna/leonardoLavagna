@@ -19,7 +19,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 ### 📝 Fresh from the Blog
 - 🌊 [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
 - 🧩 [Merging Hyperdimensional and Quantum Computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
-- 🔐 [Hellman’s Construction in the Age of Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
+- 🔐 [Hellman’s Construction and Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
 
 ### 🚀 Apps, Demos & Explorations
