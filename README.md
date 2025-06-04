@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/main/wave.gif" width="30px" height="30px" /> Ciao! I'm Leonardo Lavagna (or just Leo) <br /><br /> A Curious Mathematician & Quantum Explorer from Italy</h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/main/wave.gif" width="30px" height="30px" /> Ciao! I'm Leonardo Lavagna (or just Leo) <br /><br /> A Curious Mathematician & Data enthusiast from Italy</h2>
 
 
 ### 🌍 About Me  
