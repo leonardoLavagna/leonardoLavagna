@@ -2,9 +2,6 @@
 
 
 ### 🌍 About Me  
-
-I'm a mathematician with a deep love for data, currently diving into the quantum realm as a PhD candidate in **Quantum Computing** at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), within the [DIET Department](https://web.uniroma1.it/dip_diet/en) and the wonderfully interdisciplinary [NESYA Lab](https://sites.google.com/view/nesya).
-
 I'm a mathematician specialized in data science currently pursuing a PhD in quantum computing at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) in the [Department of Information Engineering, Electronics and Telecommunications (DIET)](https://web.uniroma1.it/dip_diet/en) in the [Neural Network Systems & Applications Laboratory (NESYA)](https://sites.google.com/view/nesya) multidisciplinary lab. Before starting my journey in quantum computing I've worked as an IT consultant and as a data scientist for a consulting firm in Rome. I enjoy multidisciplinarity, working both independently and in groups. More generally, I am passionate about participating in innovative projects that contribute to the improvement of society and the environment. Here I share some parts of my work as well as those projects I carry out in my free time and which are helping me grow, both personally and professionally.
 
 > 📚 I also write! Yes, on an actual **blog** — because I still believe in the long form. [Check it out](https://lavagnaleo.wordpress.com/), along with my [personal website](https://leonardolavagna.github.io/).
