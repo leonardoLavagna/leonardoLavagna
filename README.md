@@ -8,23 +8,23 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 
 ### ✨ Latest News
-- 🧠 [Materials for my talk at ISCAS 2025](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
-- 📊 [New Dataset dropped on Kaggle](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
-- 🤖 [Heading to IJCNN 2025!](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
+- [Materials for my talk at ISCAS 2025](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
+- [New Dataset dropped on Kaggle](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
+- [Heading to IJCNN 2025!](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
 
 
 ### 📝 Fresh from the Blog
-- 🌊 [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
-- 🧩 [Merging Hyperdimensional and Quantum Computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
-- 🔐 [Hellman’s Construction and Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
+- [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
+- [Merging Hyperdimensional and Quantum Computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
+- [Hellman’s Construction and Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
 
 ### 🚀 Apps, Demos & Explorations
-- 🧠 [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)
-- 💧 [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)
-- 🧬 [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)
-- 🔢 [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
-- 🧪 [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
+- [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)
+- [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)
+- [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)
+- [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
+- [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
 
 
 ### 🧰 Tools & Tech I Work With  
@@ -32,6 +32,4 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 ---
 
-If you have a passion for quantum things, or meaningful code, feel free to reach out — I’m always up for a good chat or collaboration.
-
-Thanks for stopping by!
+If you have a passion for quantum things, or meaningful code, feel free to reach out — I’m always up for a good chat or collaboration. Thanks for stopping by!
