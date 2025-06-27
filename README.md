@@ -25,6 +25,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 - [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)
 - [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 - [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
+- [Island dataset] extracte with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.
 
 
 ## 🧰 Tools & Tech I Work With  
