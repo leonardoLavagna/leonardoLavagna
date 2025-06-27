@@ -19,7 +19,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 - [Hellman’s Construction and Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
 
-## 🚀 Apps, Demos & Explorations
+## 🚀 Selection of Apps, Demos & Explorations
 - [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)
 - [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)
 - [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)
