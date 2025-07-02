@@ -8,9 +8,9 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 
 ## ✨ Latest News
+- [New publication available!](https://leonardolavagna.github.io/posts/2025/07/ISCAS-p3/)
 - [Materials for my talk at ISCAS 2025](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
 - [New Dataset dropped on Kaggle](https://leonardolavagna.github.io/posts/2025/5/islandsDataset/)
-- [Heading to IJCNN 2025!](https://leonardolavagna.github.io/posts/2025/5/IJCNN25/)
 
 
 ## 📝 Updates from the Blog
