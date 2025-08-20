@@ -21,12 +21,14 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 ## 🚀 Selection of Apps, Demos & Explorations
 - [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)
+- [Perturbative methods in quantum mechanics](https://perturbative-methods-in-action.streamlit.app/)
 - [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)
 - [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)
 - [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 - [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
-- [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.
 
+## 📊 Datasets
+- [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.
 
 ## 🧰 Tools & Tech I Work With  
 [![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,raspberrypi,arduino,apple&perline=16)](https://skillicons.dev)
