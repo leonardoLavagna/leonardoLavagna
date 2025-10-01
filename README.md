@@ -14,9 +14,9 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 
 ## 📝 Updates from the Blog
+- [Perturbation theory in the qubit model](https://lavagnaleo.wordpress.com/2025/09/05/perturbation-theory-in-the-qubit-model/)
 - [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
 - [Merging Hyperdimensional and Quantum Computing](https://lavagnaleo.wordpress.com/2025/04/26/merging-hyperdimensional-computing-and-quantum-computing/)
-- [Hellman’s Construction and Quantum Cryptography](https://lavagnaleo.wordpress.com/2025/02/28/hellmans-construction-and-quantum-cryptography/)
 
 
 ## 🚀 Selection of Apps, Demos & Explorations
