@@ -34,7 +34,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 - [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)
 
 ## 🧰 Tools & Tech I Work With  
-[![My Skills](https://skillicons.dev/icons?i=linux,py,pytorch,tensorflow,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,raspberrypi,arduino,apple&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,apple,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,raspberrypi,arduino,apple&perline=16)](https://skillicons.dev)
 
 ---
 
