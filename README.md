@@ -8,9 +8,9 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 
 
 ## ✨ Latest News
+- [A topical review on time-independent perturbation theory in one-dimensional quantum systems](https://leonardolavagna.github.io/posts/2025/10/AVS2025/)
 - [Materials related to the 2025 International Joint Conference on Neural Networks](https://leonardolavagna.github.io/posts/2025/8/materials-IJCNN2025/)
 - [Trade-offs in Cryptosystems by Boolean and Quantum Circuits](https://leonardolavagna.github.io/posts/2025/07/ISCAS-p3/)
-- [Materials for my talk at ISCAS 2025](https://leonardolavagna.github.io/posts/2025/5/materials-ISCAS2025/)
 
 
 ## 📝 Updates from the Blog
@@ -27,11 +27,14 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 - [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 - [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)
 
+
 ## 📊 Datasets
 - [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.
 
+
 ## 🤖 Automations
 - [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)
+
 
 ## 🧰 Tools & Tech I Work With  
 [![My Skills](https://skillicons.dev/icons?i=linux,apple,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,latex,md,mysql,mongodb,wordpress,git,github,vscode,docker,aws,heroku,anaconda,notion,raspberrypi,arduino,apple&perline=16)](https://skillicons.dev)
