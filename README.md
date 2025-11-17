@@ -26,9 +26,7 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 | [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)  | [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.   | [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)   |
 | [Perturbative methods in quantum mechanics](https://perturbative-methods-in-action.streamlit.app/)  |  |  |
 | [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)  |  |  |
-| [DNA Sequence Explorer](https://nucleotidecount.streamlit.app/)  |  |  |
-| [Look-and-Say Game (Italian version)](https://decadimendo-audioattivo.streamlit.app/) — based on [Conway’s classic](https://en.wikipedia.org/wiki/Look-and-say_sequence)   |   |  |
-| [Smart Microfluidics Toolkit](https://smart-microfluidics.streamlit.app/)  |  |  |
+
 
 
 ## 🧰 Tools & Tech I Work With  
