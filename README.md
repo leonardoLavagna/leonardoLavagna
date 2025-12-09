@@ -24,9 +24,10 @@ I'm a mathematician specialized in data science currently pursuing a PhD in quan
 | 🚀 **Applets** | 📊 **Datasets** |  🤖 **Automations** |
 | -------- | ------- | ------- |
 | [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)  | [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.   | [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)   |
-| [Perturbative methods in quantum mechanics](https://perturbative-methods-in-action.streamlit.app/)  |  |  |
+| [Perturbative methods in quantum mechanics](https://perturbative-methods-in-action.streamlit.app/)  | [Smart Microfluidics](https://zenodo.org/records/17867478): a curated dataset of microfluidic liposome formulations with cross-laboratory validation for machine-learning applications |  |
 | [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)  |  |  |
 
+> ℹ️ A comprehensive list of this kind of projects is available [here](https://leonardolavagna.github.io/applets/)
 
 
 ## 🧰 Tools & Tech I Work With  
