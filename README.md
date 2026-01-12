@@ -8,9 +8,9 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## ✨ Latest News
+- [Papers related to the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25-3/)
 - [Simplified Zenodo Dataset on Kaggle!](https://leonardolavagna.github.io/posts/2026/1/IJPDataset/)
 - [New Dataset available on Zenodo!](https://leonardolavagna.github.io/posts/2025/5/SmartMicrofluidicsDataset)
-- [Machine Learning-Guided microfluidic optimization of clinically inspired liposomes for nanomedicine applications](https://leonardolavagna.github.io/posts/2025/10/IJP1/)
 
 
 
