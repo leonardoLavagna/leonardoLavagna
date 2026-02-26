@@ -8,15 +8,14 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## ✨ Latest News
-- [Follow up on the Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2026/02/26/follow-up-on-the-hellmans-construction-and-quantum-cryptography/)
 - [Papers related to the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25-3/)
 - [Simplified Zenodo Dataset on Kaggle!](https://leonardolavagna.github.io/posts/2026/1/IJPDataset/)
 
 
 ## 📝 Updates from the Blog
+- [Follow up on the Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2026/02/26/follow-up-on-the-hellmans-construction-and-quantum-cryptography/)
 - [Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2025/11/16/hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
 - [Perturbation theory in the qubit model](https://lavagnaleo.wordpress.com/2025/09/05/perturbation-theory-in-the-qubit-model/)
-- [Rogue Waves and the Non-Linear Schrödinger Equation](https://lavagnaleo.wordpress.com/2025/05/27/rogue-waves-and-the-non-linear-schrodinger-equation/)
 
 
 ## 🧑🏻‍💻 Selection of Apps, Demos & Code Explorations
