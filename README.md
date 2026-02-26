@@ -8,10 +8,9 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## ✨ Latest News
+- [Follow up on the Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2026/02/26/follow-up-on-the-hellmans-construction-and-quantum-cryptography/)
 - [Papers related to the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25-3/)
 - [Simplified Zenodo Dataset on Kaggle!](https://leonardolavagna.github.io/posts/2026/1/IJPDataset/)
-- [New Dataset available on Zenodo!](https://leonardolavagna.github.io/posts/2025/5/SmartMicrofluidicsDataset)
-
 
 
 ## 📝 Updates from the Blog
