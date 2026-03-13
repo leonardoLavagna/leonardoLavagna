@@ -8,6 +8,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## ✨ Latest News
+- [Attending the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://leonardolavagna.github.io/posts/2026/3/ICASSP/)
 - [Papers related to the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25-3/)
 - [Simplified Zenodo Dataset on Kaggle!](https://leonardolavagna.github.io/posts/2026/1/IJPDataset/)
 
