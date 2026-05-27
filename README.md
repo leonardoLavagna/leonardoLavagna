@@ -9,8 +9,8 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 ## ✨ Latest News
 - [Enhancing QAOA Ansatz via Multi-Parameterized Layer and Blockwise Optimization](https://leonardolavagna.github.io/posts/2026/5/ICASSPp1/)
-- [Attending the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://leonardolavagna.github.io/posts/2026/3/ICASSP/)
-- [Papers related to the International Joint Conference on Neural Networks 2025](https://leonardolavagna.github.io/posts/2025/5/IJCNN25-3/)
+- [Papers related to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://leonardolavagna.github.io/posts/2026/3/ICASSP/)
+- [Visiting period at CERN](https://leonardolavagna.github.io/posts/2026/5/CERNp1/)
 
 
 ## 📝 Updates from the Blog
