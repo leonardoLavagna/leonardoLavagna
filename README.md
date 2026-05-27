@@ -14,9 +14,9 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## 📝 Updates from the Blog
+- [Follow up on a Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2026/05/27/follow-up-on-a-hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
 - [Some considerations on possible enhancements of the QAOA ansatz via agnostic multi-parameterized layers and advanced parameters’ update](https://lavagnaleo.wordpress.com/2026/04/11/some-considerations-on-possible-enhancements-of-the-qaoa-ansatz-via-agnostic-multi-parameterized-layers-and-advanced-parameters-update/)
 - [Follow up on the Hellman’s construction and quantum cryptography](https://lavagnaleo.wordpress.com/2026/02/26/follow-up-on-the-hellmans-construction-and-quantum-cryptography/)
-- [Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2025/11/16/hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
 
 
 ## 🧑🏻‍💻 Selection of Apps, Demos & Code Explorations
