@@ -31,7 +31,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 
 ## 🧰 Tools & Tech I Work With  
-[![My Skills](https://skillicons.dev/icons?i=linux,apple,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,kubernetes,latex,md,mysql,mongodb,wordpress,git,github,gitlab,vscode,docker,aws,heroku,anaconda,notion,raspberrypi,arduino,apple&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,apple,raspberrypi,arduino,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,kubernetes,latex,md,sqlite,mysql,mongodb,wordpress,git,github,gitlab,vscode,docker,aws,heroku,anaconda,notion&perline=16)](https://skillicons.dev)
 
 ---
 
