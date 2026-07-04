@@ -11,7 +11,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 - [Time Series Anomaly Detection with Quantum Variational Methods and Set Covering](https://leonardolavagna.github.io/posts/2026/7/ICASSPp2/)
 - [Papers related to the 2026 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2026/6/ISCAS/)
 - [Enhancing QAOA Ansatz via Multi-Parameterized Layer and Blockwise Optimization](https://leonardolavagna.github.io/posts/2026/5/ICASSPp1/)
-- 
+  
 
 ## 📝 Updates from the Blog
 - [Shor, Grover, and the Uneven Quantum Threat to Cryptography](https://lavagnaleo.wordpress.com/2026/07/04/shor-grover-and-the-uneven-quantum-threat-to-cryptography/)
