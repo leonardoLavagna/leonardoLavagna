@@ -43,9 +43,11 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 </details>
 
-### 🧰 Tools & Tech I Work With
+<details>
+<summary><big><big><strong>🧰 Tools & Tech I Work With</strong></big></big></summary>
+  
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,apple,raspberrypi,arduino,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,kubernetes,latex,md,sqlite,mysql,mongodb,wordpress,git,github,gitlab,vscode,docker,aws,heroku,anaconda,notion&perline=16)](https://skillicons.dev)
 
----
+</details>
 
 If you have a passion for quantum things, or meaningful code, feel free to reach out — I’m always up for a good chat or collaboration. Thanks for stopping by!
