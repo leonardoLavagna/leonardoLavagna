@@ -7,7 +7,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 > 📚 I also write! Yes, on an actual **blog** — because I still believe in the long form. [Check it out](https://lavagnaleo.wordpress.com/), along with my [personal website](https://leonardolavagna.github.io/).
 
 <details>
-<summary><h2>✨ Latest News</h2></summary>
+<summary><big><strong>✨ Latest News<summary><big><strong>
   
 - [Time Series Anomaly Detection with Quantum Variational Methods and Set Covering](https://leonardolavagna.github.io/posts/2026/7/ICASSPp2/)
 - [Papers related to the 2026 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2026/6/ISCAS/)
