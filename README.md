@@ -8,6 +8,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 <details>
 <summary><h2>✨ Latest News</h2></summary>
+  
 - [Time Series Anomaly Detection with Quantum Variational Methods and Set Covering](https://leonardolavagna.github.io/posts/2026/7/ICASSPp2/)
 - [Papers related to the 2026 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2026/6/ISCAS/)
 - [Enhancing QAOA Ansatz via Multi-Parameterized Layer and Blockwise Optimization](https://leonardolavagna.github.io/posts/2026/5/ICASSPp1/)
@@ -16,6 +17,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 <details>
 <summary><h2>📝 Updates from the Blog</summary>
+  
 - [Shor, Grover, and the Uneven Quantum Threat to Cryptography](https://lavagnaleo.wordpress.com/2026/07/04/shor-grover-and-the-uneven-quantum-threat-to-cryptography/)
 - [Follow up on a Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2026/05/27/follow-up-on-a-hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
 - [Some considerations on possible enhancements of the QAOA ansatz via agnostic multi-parameterized layers and advanced parameters’ update](https://lavagnaleo.wordpress.com/2026/04/11/some-considerations-on-possible-enhancements-of-the-qaoa-ansatz-via-agnostic-multi-parameterized-layers-and-advanced-parameters-update/)
