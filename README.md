@@ -26,7 +26,9 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 | [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)  | [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.   | [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)   |
 | [Perturbative methods in quantum mechanics](https://perturbative-methods-in-action.streamlit.app/)  | [Smart Microfluidics](https://zenodo.org/records/17867478): a curated dataset of microfluidic liposome formulations with cross-laboratory validation for machine-learning applications.  A simplified version of this dataset is available also [here](https://www.kaggle.com/datasets/leolavagna/ml-ready-clinically-inspired-liposome-data) |  |
 | [Molecular Solubility Predictor](https://moleculesolubilityprediction.streamlit.app/)  |  |  |
+
 | 👾 **Games** | 	🔐 **Cryptography** |  🗒️ **Databases** |
+| -------- | ------- | ------- |
 | [tic-tac-toe](https://onlinegdb.com/th0N-Pp_d)  | [RSA](https://www.onlinegdb.com/sjXC-t22a) Don't take this as a secure implementation! More information [here](https://github.com/leonardoLavagna/Cryptography/tree/main/RSA). | [Covid19-Cases](https://github.com/leonardoLavagna/Databases/tree/main/Covid19_data_analysis): an SQL database for the analysis of some Covid-19 Data. There are some visualizations available for interesting queries: [here](https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes) and [here](https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView). More information here. |
 | [hangman](https://www.onlinegdb.com/Ym61-W2Qm)  |  |  |
 | [sudoku solver (in Italian)](https://www.onlinegdb.com/IxcNlN-wH)  |  |  |
