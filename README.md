@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/leonardoLavagna/leonardoLavagna/main/wave.gif" width="30px" height="30px" /> Ciao! I'm Leonardo Lavagna (or just Leo) <br /><br /> A Curious Mathematician & Data enthusiast from Italy</h2>
 
 
-## 🌍 About Me  
+<summary><strong>🌍 About Me</strong></summary>  
 I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized in [data science](https://www.youtube.com/watch?v=tN5KIUNfYGA&t=1s) currently pursuing a PhD in [quantum computing](https://www.youtube.com/watch?v=RQWpF2Gb-gU) at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) in the [Department of Information Engineering, Electronics and Telecommunications (DIET)](https://web.uniroma1.it/dip_diet/en) in the [Neural Network Systems & Applications Laboratory (NESYA)](https://sites.google.com/view/nesya) multidisciplinary lab. Before starting my journey in quantum computing I've worked as an IT consultant and as a data scientist for a consulting firm in Rome. I enjoy multidisciplinarity, working both independently and in groups. More generally, I am passionate about participating in innovative projects that contribute to the improvement of society and the environment. Here I share some parts of my work as well as those projects I carry out in my free time and which are helping me grow, both personally and professionally.
 
 > 📚 I also write! Yes, on an actual **blog** — because I still believe in the long form. [Check it out](https://lavagnaleo.wordpress.com/), along with my [personal website](https://leonardolavagna.github.io/).
@@ -43,7 +43,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 </details>
 
-## 🧰 Tools & Tech I Work With  
+<summary><strong> 🧰 Tools & Tech I Work With</strong></summary>
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,apple,raspberrypi,arduino,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,kubernetes,latex,md,sqlite,mysql,mongodb,wordpress,git,github,gitlab,vscode,docker,aws,heroku,anaconda,notion&perline=16)](https://skillicons.dev)
 
 ---
