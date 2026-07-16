@@ -27,6 +27,8 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 <details>
 <summary><big><big><strong>🧑🏻‍💻 Selection of Apps, Demos & Code Explorations</strong></big></big></summary>
 
+<br>
+
 | 🚀 **Applets** | 📊 **Datasets** |  🤖 **Automations** |
 | -------- | ------- | ------- |
 | [Quantum Optimization](https://quantum-optimization-app.streamlit.app/)  | [Island dataset](https://www.kaggle.com/datasets/leolavagna/islands) extracted with [Google Earth Engine](https://earthengine.google.com/), tailored for renewable energy policy analysis.   | [Random and quantum walks with Arduino](https://github.com/leonardoLavagna/open_diet)   |
@@ -44,7 +46,10 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 </details>
 
 <details>
-<big><big><strong>🧰 Tools & Tech I Work With</strong></big></big>
+<summary><big><big><strong>🧰 Tools & Tech I Work With</strong></big></big></summary>
+  
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,apple,raspberrypi,arduino,py,pytorch,tensorflow,sklearn,r,c,cpp,html,java,matlab,octave,kubernetes,latex,md,sqlite,mysql,mongodb,wordpress,git,github,gitlab,vscode,docker,aws,heroku,anaconda,notion&perline=16)](https://skillicons.dev)
 
 </details>
