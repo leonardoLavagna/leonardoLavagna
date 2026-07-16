@@ -7,7 +7,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 > 📚 I also write! Yes, on an actual **blog** — because I still believe in the long form. [Check it out](https://lavagnaleo.wordpress.com/), along with my [personal website](https://leonardolavagna.github.io/).
 
 <details>
-<summary><big><strong>✨ Latest News</strong></big></summary>
+<summary><big><big><strong>✨ Latest News</strong></big></big></summary>
   
 - [Time Series Anomaly Detection with Quantum Variational Methods and Set Covering](https://leonardolavagna.github.io/posts/2026/7/ICASSPp2/)
 - [Papers related to the 2026 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2026/6/ISCAS/)
@@ -16,7 +16,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 </details>
 
 <details>
-<summary><big><strong>📝 Updates from the Blog</strong></big></summary>
+<summary><big><big><strong>📝 Updates from the Blog</strong></big></big></summary>
   
 - [Shor, Grover, and the Uneven Quantum Threat to Cryptography](https://lavagnaleo.wordpress.com/2026/07/04/shor-grover-and-the-uneven-quantum-threat-to-cryptography/)
 - [Follow up on a Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2026/05/27/follow-up-on-a-hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
@@ -25,7 +25,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 </details>
 
 <details>
-<summary><big><strong>🧑🏻‍💻 Selection of Apps, Demos & Code Explorations</strong></big></summary>
+<summary><big><big><strong>🧑🏻‍💻 Selection of Apps, Demos & Code Explorations</strong></big></big></summary>
 
 | 🚀 **Applets** | 📊 **Datasets** |  🤖 **Automations** |
 | -------- | ------- | ------- |
