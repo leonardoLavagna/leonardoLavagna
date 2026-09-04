@@ -50,7 +50,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 </details>
 
 <details>
-<summary><big><big><strong>🧰 Tools & Tech I Work With</strong></big></big></summary>
+<summary><big><big><strong>🧰 Selection of Tools & Tech I Work With</strong></big></big></summary>
   
 <br>
 
