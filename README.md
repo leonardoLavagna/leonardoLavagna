@@ -22,6 +22,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 <br>
 
+- [Symmetries of Random Graphs: From Automorphism Groups to QAOA Dynamics](https://lavagnaleo.wordpress.com/2026/10/23/symmetries-of-random-graphs-from-automorphism-groups-to-qaoa-dynamics/)
 - [From Random Graphs to the Rado Graph: Some Questions About QAOA and MaxCut](https://lavagnaleo.wordpress.com/2026/10/23/from-random-graphs-to-the-rado-graph-some-questions-about-qaoa-and-maxcut/)
 - [Shor, Grover, and the Uneven Quantum Threat to Cryptography](https://lavagnaleo.wordpress.com/2026/07/04/shor-grover-and-the-uneven-quantum-threat-to-cryptography/)
 - [Follow up on a Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2026/05/27/follow-up-on-a-hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
