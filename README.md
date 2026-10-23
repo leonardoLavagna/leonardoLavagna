@@ -22,6 +22,7 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 <br>
 
+- [From Random Graphs to the Rado Graph: Some Questions About QAOA and MaxCut](https://lavagnaleo.wordpress.com/2026/10/23/from-random-graphs-to-the-rado-graph-some-questions-about-qaoa-and-maxcut/)
 - [Shor, Grover, and the Uneven Quantum Threat to Cryptography](https://lavagnaleo.wordpress.com/2026/07/04/shor-grover-and-the-uneven-quantum-threat-to-cryptography/)
 - [Follow up on a Hybrid Quantum-Classical Framework for Anomaly Detection in Time Series with QUBO formulation and QAOA](https://lavagnaleo.wordpress.com/2026/05/27/follow-up-on-a-hybrid-quantum-classical-framework-for-anomaly-detection-in-time-series-with-qubo-formulation-and-qaoa/)
 - [Some considerations on possible enhancements of the QAOA ansatz via agnostic multi-parameterized layers and advanced parameters’ update](https://lavagnaleo.wordpress.com/2026/04/11/some-considerations-on-possible-enhancements-of-the-qaoa-ansatz-via-agnostic-multi-parameterized-layers-and-advanced-parameters-update/)
