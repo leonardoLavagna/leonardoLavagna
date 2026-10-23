@@ -11,9 +11,9 @@ I'm a [mathematician](https://www.youtube.com/watch?v=SeZ_gbBPUw0) specialized i
 
 <br>
 
+- [Semi-Supervised Multichannel Anomaly Detection Using QAOA-Driven Selection and Set Covering](https://leonardolavagna.github.io/posts/2026/10/WCCI1/)
 - [From Problem-Structured QAOA to Problem-Agnostic Variational MaxCut Solvers: Representation, Redundancy, and Optimization Landscapes](https://leonardolavagna.github.io/posts/2026/10/AMS/)
 - [Time Series Anomaly Detection with Quantum Variational Methods and Set Covering](https://leonardolavagna.github.io/posts/2026/7/ICASSPp2/)
-- [Papers related to the 2026 IEEE International Symposium on Circuits and Systems](https://leonardolavagna.github.io/posts/2026/6/ISCAS/)
   
 </details>
 
